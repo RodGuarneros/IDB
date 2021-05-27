@@ -1,0 +1,918 @@
+id_project,Sector_1,Region_1,Operation_Type,Stage,Approval
+BA-G9002,INE,CAR,Investment Grants,Operation in Disbursing,07/29/15
+BA-L9025,INE,CAR,Loan Operation,Operation in Disbursing,02/03/2014
+BA-L9032,SCL,CAR,Loan Operation,Operation in Disbursing,11/28/12
+BA-L9033,CSD,CAR,Loan Operation,Operation in Disbursing,11/02/2011
+BA-L9034,IFD,CAR,Loan Operation,Fully Disbursed,01/11/2011
+BA-L9035,INE,CAR,Loan Operation,Operation in Disbursing,07/07/2010
+BA-L9043,INE,CAR,Loan Operation,Operation in Disbursing,07/23/14
+BA-L9046,IFD,CAR,Loan Operation,Fully Disbursed,11/30/11
+BA-L9048,CSD,CAR,Loan Operation,Operation Closed,02/01/2012
+BA-L9050,IFD,CAR,Loan Operation,Operation in Disbursing,05/18/20
+BA-L9059,IFD,CAR,Loan Operation,Operation in Disbursing,07/29/20
+BA-L9092,INE,CAR,Loan Operation,Operation in Disbursing,10/30/13
+BA-L9094,CSD,CAR,Loan Operation,Operation in Disbursing,03/27/13
+BA-L9096,SCL,CAR,Loan Operation,Operation Closed,04/10/2013
+BA-X9003,INE,CAR,Investment Grants,Operation in Disbursing,11/26/12
+BH-L9027,INE,CAR,Loan Operation,Operation Closed,07/16/14
+BH-L9028,INE,CAR,Loan Operation,Operation in Disbursing,05/21/14
+BH-L9033,IFD,CAR,Loan Operation,Operation in Disbursing,11/13/13
+BH-L9035,IFD,CAR,Loan Operation,Operation in Disbursing,05/14/14
+BH-L9037,SCL,CAR,Loan Operation,Operation in Disbursing,09/12/2013
+BH-L9043,CSD,CAR,Loan Operation,Operation in Disbursing,07/23/14
+BH-L9045,IFD,CAR,Loan Operation,Operation in Disbursing,04/23/15
+BH-L9046,IFD,CAR,Loan Operation,Operation in Disbursing,05/14/15
+BH-L9048,INE,CAR,Loan Operation,Operation in Disbursing,05/07/2015
+BH-L9049,IFD,CAR,Loan Operation,Operation in Disbursing,06/25/15
+BH-L9049B,INE,CAR,Loan Operation,Operation in Disbursing,09/09/2016
+BH-L9050,IFD,CAR,Loan Operation,Fully Disbursed,06/22/20
+BH-L9055,SCL,CAR,Loan Operation,Operation in Disbursing,12/02/2020
+BH-L9096,INT,CAR,Loan Operation,Operation Closed,12/05/2016
+BL-G9002,SCL,AAN,Investment Grants,Operation Closed,10/26/16
+BL-G9003,SCL,AAN,Investment Grants,Operation in Disbursing,09/28/16
+BL-G9004,SCL,AAN,Investment Grants,Operation in Disbursing,12/05/2016
+BL-J0002,SCL,AAN,Grant Financing Product,Operation in Disbursing,12/16/20
+BL-L9020,CSD,AAN,Loan Operation,Operation in Disbursing,12/12/2016
+BL-L9028,CSD,AAN,Loan Operation,Operation in Disbursing,04/07/2017
+BL-L9029,INE,AAN,Loan Operation,Operation in Disbursing,07/12/2017
+BL-L9029B,INE,AAN,Loan Operation,Operation in Disbursing,06/29/17
+BL-L9030,SCL,AAN,Loan Operation,Operation in Disbursing,08/29/17
+BL-L9034,SCL,AAN,Loan Operation,Operation in Disbursing,01/29/20
+BL-L9036,SCL,AAN,Loan Operation,Operation in Disbursing,09/27/17
+BL-L9039,IFD,AAN,Loan Operation,Operation in Disbursing,08/02/2017
+BL-L9098,SCL,AAN,Loan Operation,Operation in Disbursing,08/24/17
+BL-L9099,INE,AAN,Loan Operation,Operation in Disbursing,12/08/2017
+BL-U0009,SCL,AAN,Grant Financing Product,Operation in Disbursing,12/06/2017
+BO-G9002,INE,LATAM,Investment Grants,Operation in Disbursing,11/29/17
+BO-G9004,CSD,LATAM,Investment Grants,Operation in Disbursing,12/01/2017
+BO-L9063,IFD,LATAM,Loan Operation,Operation in Disbursing,07/26/18
+BO-L9064,SCL,LATAM,Loan Operation,Operation in Disbursing,03/14/18
+BO-L9067,SCL,LATAM,Loan Operation,Operation in Disbursing,03/12/2018
+BO-L9073,INE,LATAM,Loan Operation,Operation in Disbursing,02/28/19
+BO-L9075,INE,LATAM,Loan Operation,Operation in Disbursing,07/02/2019
+BO-L9076,INE,LATAM,Loan Operation,Operation in Disbursing,06/12/2019
+BO-L9078,SCL,LATAM,Loan Operation,Operation in Disbursing,05/03/2019
+BO-L9079,SCL,LATAM,Loan Operation,Operation in Disbursing,11/02/2018
+BO-L9079B,INE,LATAM,Loan Operation,Operation in Disbursing,11/01/2018
+BO-L9080,INE,LATAM,Loan Operation,Operation in Disbursing,06/14/19
+BO-L9082,SCL,LATAM,Loan Operation,Operation in Disbursing,07/31/19
+BO-L9084,CSD,LATAM,Loan Operation,Operation in Disbursing,06/19/19
+BO-L9087,INE,LATAM,Loan Operation,Operation in Disbursing,07/31/19
+BO-L9093,INE,LATAM,Loan Operation,Operation in Disbursing,07/02/2019
+BO-L9095,INE,LATAM,Loan Operation,Operation in Disbursing,05/18/20
+BO-L9096,CSD,LATAM,Loan Operation,Fully Disbursed,07/29/20
+BO-L9296,SCL,LATAM,Loan Operation,Operation in Disbursing,08/05/2020
+BO-L9297,IFD,LATAM,Loan Operation,Operation in Disbursing,12/09/2020
+BO-L9902,INE,LATAM,Loan Operation,Operation in Disbursing,12/07/2016
+BO-L9906,CSD,LATAM,Loan Operation,Operation in Disbursing,12/08/2010
+BO-L9909,INE,LATAM,Loan Operation,Operation in Disbursing,06/25/12
+BO-L9929,SCL,LATAM,Loan Operation,Operation in Disbursing,09/21/15
+BO-L9979,CSD,LATAM,Loan Operation,Operation in Disbursing,10/25/17
+BO-L9982,CSD,LATAM,Loan Operation,Operation in Disbursing,12/15/14
+BO-L9984,INE,LATAM,Loan Operation,Operation in Disbursing,11/18/15
+BO-L9986,INE,LATAM,Loan Operation,Operation in Disbursing,09/20/19
+BO-L9988,CSD,LATAM,Loan Operation,Operation in Disbursing,11/27/19
+BO-L9990,INE,LATAM,Loan Operation,Operation in Disbursing,12/02/2020
+BO-L9992,INE,LATAM,Loan Operation,Operation in Disbursing,12/16/20
+BO-L9993,CSD,LATAM,Loan Operation,Operation in Disbursing,06/25/12
+BO-L9994,INE,LATAM,Loan Operation,Operation in Disbursing,07/07/2015
+BO-L9997,INE,LATAM,Loan Operation,Operation in Disbursing,11/19/14
+BO-L9998,INE,LATAM,Loan Operation,Operation in Disbursing,11/02/2016
+BO-L9998B,SCL,LATAM,Loan Operation,Fully Disbursed,01/25/17
+BO-L9999,IFD,LATAM,Loan Operation,Operation in Disbursing,11/08/2017
+BO-L9999B,INE,LATAM,Loan Operation,Operation Closed,06/27/18
+BO-X9004,INE,LATAM,Investment Grants,Operation in Disbursing,08/28/19
+BO-X9009,CSD,LATAM,Investment Grants,Operation in Disbursing,01/29/20
+BO-X9092,CSD,LATAM,Investment Grants,Operation in Disbursing,09/11/2019
+BO-X9093,INE,LATAM,Investment Grants,Operation in Disbursing,08/05/2020
+CH-G9005,INE,NAC,Investment Grants,Operation Closed,12/09/2020
+CH-L9082,SCL,NAC,Loan Operation,Operation in Disbursing,05/03/2018
+CH-L9084,CSD,NAC,Loan Operation,Operation in Disbursing,03/14/19
+CH-L9085,IFD,NAC,Loan Operation,Operation in Disbursing,10/27/20
+CH-L9089,SCL,NAC,Loan Operation,Fully Disbursed,11/19/14
+CH-L9095,SCL,NAC,Loan Operation,Operation Closed,10/21/15
+CH-L9098,IFD,NAC,Loan Operation,Fully Disbursed,05/25/16
+CH-L9905,IFD,NAC,Loan Operation,Operation Closed,12/06/2017
+CH-L9935,SCL,NAC,Loan Operation,Fully Disbursed,09/26/18
+CH-L9938,INT,NAC,Loan Operation,Operation in Disbursing,06/07/2019
+CH-L9942,IFD,NAC,Loan Operation,Operation in Disbursing,07/30/19
+CH-L9945,IFD,NAC,Loan Operation,Operation in Disbursing,06/19/20
+CH-L9948,IFD,NAC,Loan Operation,Operation in Disbursing,12/02/2015
+CH-L9949,SCL,NAC,Loan Operation,Operation in Disbursing,10/27/20
+CH-X9007,INE,NAC,Investment Grants,Operation in Disbursing,11/02/2011
+CR-G9004,SCL,AAN,Investment Grants,Operation Closed,11/07/2012
+CR-G9006,INT,AAN,Investment Grants,Operation in Disbursing,12/05/2012
+CR-J0009,SCL,AAN,Grant Financing Product,Operation in Disbursing,06/19/20
+CR-L9024,INE,AAN,Loan Operation,Operation in Disbursing,06/26/13
+CR-L9032,INE,AAN,Loan Operation,Operation in Disbursing,11/01/2012
+CR-L9039,IFD,AAN,Loan Operation,Operation in Disbursing,02/13/13
+CR-L9043,IFD,AAN,Loan Operation,Operation in Disbursing,12/02/2015
+CR-L9049,INE,AAN,Loan Operation,Operation Closed,02/12/2014
+CR-L9053,SCL,AAN,Loan Operation,Operation in Disbursing,11/27/13
+CR-L9065,INE,AAN,Loan Operation,Operation in Disbursing,12/11/2014
+CR-L9066,INT,AAN,Loan Operation,Operation in Disbursing,09/16/15
+CR-L9070,INE,AAN,Loan Operation,Operation in Disbursing,09/09/2015
+CR-L9937,IFD,AAN,Loan Operation,Operation in Disbursing,09/21/15
+CR-L9939,INE,AAN,Loan Operation,Operation in Disbursing,06/30/16
+CR-L9942,CSD,AAN,Loan Operation,Operation Closed,09/01/2016
+CR-L9943,IFD,AAN,Loan Operation,Operation in Disbursing,05/29/20
+CR-L9944,SCL,AAN,Loan Operation,Operation in Disbursing,07/22/20
+CR-X9009,INE,AAN,Investment Grants,Operation in Disbursing,09/07/2016
+DR-G0002,SCL,AAN,Investment Grants,Operation in Disbursing,11/30/16
+DR-L9034,INE,AAN,Loan Operation,Operation in Disbursing,11/16/16
+DR-L9035,CSD,AAN,Loan Operation,Operation in Disbursing,10/31/18
+DR-L9048,CSD,AAN,Loan Operation,Operation in Disbursing,12/12/2018
+DR-L9049,INE,AAN,Loan Operation,Operation in Disbursing,11/15/17
+DR-L9053,SCL,AAN,Loan Operation,Operation in Disbursing,11/22/17
+DR-L9057,INE,AAN,Loan Operation,Operation in Disbursing,10/24/18
+DR-L9058,INE,AAN,Loan Operation,Operation in Disbursing,11/29/17
+DR-L9059,SCL,AAN,Loan Operation,Operation in Disbursing,11/01/2018
+DR-L9067,SCL,AAN,Loan Operation,Fully Disbursed,09/26/18
+DR-L9068,IFD,AAN,Loan Operation,Operation in Disbursing,05/29/20
+DR-L9069,SCL,AAN,Loan Operation,Fully Disbursed,07/22/20
+DR-L9077,SCL,AAN,Loan Operation,Fully Disbursed,12/02/2015
+DR-L9080,SCL,AAN,Loan Operation,Operation in Disbursing,07/31/14
+DR-L9084,CSD,AAN,Loan Operation,Operation in Disbursing,03/12/2018
+DR-L9920,CSD,AAN,Loan Operation,Operation in Disbursing,10/30/14
+DR-L9922,INE,AAN,Loan Operation,Operation in Disbursing,06/27/13
+DR-L9925,IFD,AAN,Loan Operation,Fully Disbursed,03/23/12
+DR-L9927,SCL,AAN,Loan Operation,Operation in Disbursing,11/07/2012
+DR-L9928,INE,AAN,Loan Operation,Operation in Disbursing,05/01/2014
+DR-L9932,INE,AAN,Loan Operation,Operation in Disbursing,03/10/2010
+DR-L9934,CSD,AAN,Loan Operation,Operation in Disbursing,10/24/13
+DR-L9935,CSD,AAN,Loan Operation,Operation in Disbursing,06/25/12
+DR-L9937,CSD,AAN,Loan Operation,Operation in Disbursing,11/23/11
+DR-L9944,IFD,AAN,Loan Operation,Fully Disbursed,12/16/20
+DR-L9945,IFD,AAN,Loan Operation,Operation in Disbursing,01/15/20
+DR-L9949,IFD,AAN,Loan Operation,Operation in Disbursing,12/13/11
+DR-L9997,IFD,AAN,Loan Operation,Operation in Disbursing,02/27/13
+DR-X9005,INE,AAN,Investment Grants,Operation in Disbursing,12/12/2012
+EC-G9009,INE,LATAM,Investment Grants,Operation in Disbursing,05/01/2013
+EC-J0006,SCL,LATAM,Grant Financing Product,Operation in Disbursing,01/15/20
+EC-L9076,SCL,LATAM,Loan Operation,Operation Closed,11/20/13
+EC-L9089,INE,LATAM,Loan Operation,Operation in Disbursing,12/18/13
+EC-L9097,CSD,LATAM,Loan Operation,Operation in Disbursing,10/15/14
+EC-L9223,INE,LATAM,Loan Operation,Operation in Disbursing,07/24/13
+EC-L9227,IFD,LATAM,Loan Operation,Operation in Disbursing,07/03/2014
+EC-L9229,CSD,LATAM,Loan Operation,Operation in Disbursing,12/15/14
+EC-L9230,IFD,LATAM,Loan Operation,Operation in Disbursing,10/22/14
+EC-L9235,SCL,LATAM,Loan Operation,Operation in Disbursing,12/16/13
+EC-L9236,SCL,LATAM,Loan Operation,Operation in Disbursing,12/13/13
+EC-L9238,SCL,LATAM,Loan Operation,Operation in Disbursing,10/30/13
+EC-L9239,INE,LATAM,Loan Operation,Operation in Disbursing,12/15/14
+EC-L9242,INE,LATAM,Loan Operation,Operation in Disbursing,05/31/13
+EC-L9243,INT,LATAM,Loan Operation,Operation in Disbursing,09/17/14
+EC-L9245,CSD,LATAM,Loan Operation,Operation in Disbursing,07/30/14
+EC-L9248,INE,LATAM,Loan Operation,Operation in Disbursing,12/16/14
+EC-L9249,IFD,LATAM,Loan Operation,Operation in Disbursing,09/03/2014
+EC-L9250,IFD,LATAM,Loan Operation,Operation in Disbursing,07/27/16
+EC-L9252,IFD,LATAM,Loan Operation,Operation in Disbursing,12/17/14
+EC-L9257,INE,LATAM,Loan Operation,Operation in Disbursing,12/17/14
+EC-L9258,SCL,LATAM,Loan Operation,Operation in Disbursing,07/13/16
+EC-L9259,IFD,LATAM,Loan Operation,Operation in Disbursing,01/09/2019
+EC-L9264,IFD,LATAM,Loan Operation,Operation in Disbursing,05/25/16
+EC-L9268,IFD,LATAM,Loan Operation,Operation in Disbursing,12/09/2020
+EC-L9269,IFD,LATAM,Loan Operation,Operation in Disbursing,12/16/20
+EC-L9270,SCL,LATAM,Loan Operation,Operation in Disbursing,11/18/20
+EC-L9272,IFD,LATAM,Loan Operation,Operation in Disbursing,08/06/2020
+EC-L9299,INE,LATAM,Loan Operation,Operation in Disbursing,10/26/18
+EC-L9920,IFD,LATAM,Loan Operation,Operation in Disbursing,09/21/17
+EC-L9922,INE,LATAM,Loan Operation,Operation in Disbursing,12/13/17
+EC-L9924,INE,LATAM,Loan Operation,Operation in Disbursing,09/27/17
+EC-L9925,INE,LATAM,Loan Operation,Operation in Disbursing,11/01/2017
+EC-L9929,SCL,LATAM,Loan Operation,Operation in Disbursing,11/22/17
+EC-L9929B,#N/A,LATAM,Loan Operation,Operation in Disbursing,10/11/2018
+EC-L9936,INE,LATAM,Loan Operation,Operation in Disbursing,03/22/19
+EC-L9947,INE,LATAM,Loan Operation,Operation in Disbursing,09/28/18
+EC-L9955,SCL,LATAM,Loan Operation,Operation in Disbursing,12/15/17
+EC-L9960,INE,LATAM,Loan Operation,Operation in Disbursing,12/15/17
+EC-L9992,INE,LATAM,Loan Operation,Operation in Disbursing,12/15/17
+EC-L9993,CSD,LATAM,Loan Operation,Operation in Disbursing,06/28/18
+EC-L9996,INT,LATAM,Loan Operation,Fully Disbursed,12/08/2017
+EC-L9997,INE,LATAM,Loan Operation,Operation in Disbursing,11/28/18
+EC-L9998,IFD,LATAM,Loan Operation,Operation in Disbursing,11/27/19
+EC-L9999,INE,LATAM,Loan Operation,Operation in Disbursing,08/30/18
+EC-L9999B,IFD,LATAM,Loan Operation,Operation in Disbursing,12/06/2018
+EC-U0003,SCL,LATAM,Grant Financing Product,Operation in Disbursing,01/23/19
+EC-U0009,IFD,LATAM,Grant Financing Product,Operation in Disbursing,01/23/19
+EC-X9006,INE,LATAM,Investment Grants,Operation in Disbursing,11/30/18
+ES-G9003,SCL,AAN,Investment Grants,Fully Disbursed,10/24/18
+ES-G9004,SCL,AAN,Investment Grants,Operation in Disbursing,11/14/18
+ES-L9025,IFD,AAN,Loan Operation,Operation in Disbursing,12/16/20
+ES-L9057,INT,AAN,Loan Operation,Operation in Disbursing,12/11/2019
+ES-L9066,CSD,AAN,Loan Operation,Operation in Disbursing,12/06/2019
+ES-L9075,IFD,AAN,Loan Operation,Operation in Disbursing,01/15/20
+ES-L9089,IFD,AAN,Loan Operation,Operation in Disbursing,12/16/19
+ES-L9095,SCL,AAN,Loan Operation,Operation in Disbursing,12/14/18
+ES-L9096,INE,AAN,Loan Operation,Operation in Disbursing,12/14/18
+ES-L9932,IFD,AAN,Loan Operation,Operation in Disbursing,12/18/19
+ES-L9935,CSD,AAN,Loan Operation,Operation in Disbursing,01/15/20
+ES-L9936,IFD,AAN,Loan Operation,Operation in Disbursing,12/18/19
+ES-L9938,IFD,AAN,Loan Operation,Operation in Disbursing,11/30/20
+ES-L9939,IFD,AAN,Loan Operation,Operation in Disbursing,12/18/19
+ES-L9939B,#N/A,AAN,Loan Operation,Fully Disbursed,10/23/20
+ES-L9942,IFD,AAN,Loan Operation,Operation in Disbursing,09/23/20
+ES-L9943,IFD,AAN,Loan Operation,Operation in Disbursing,08/06/2020
+ES-L9944,SCL,AAN,Loan Operation,Operation in Disbursing,10/09/2020
+GY-G9004,INE,CAR,Investment Grants,Operation in Disbursing,10/23/20
+GY-L9027,INE,CAR,Loan Operation,Operation in Disbursing,09/23/20
+GY-L9028,CSD,CAR,Loan Operation,Operation in Disbursing,10/09/2020
+GY-L9039,CSD,CAR,Loan Operation,Operation in Disbursing,12/16/15
+GY-L9040,INE,CAR,Loan Operation,Operation in Disbursing,10/21/15
+GY-L9042,IFD,CAR,Loan Operation,Operation in Disbursing,10/22/14
+GY-L9044,IFD,CAR,Loan Operation,Operation in Disbursing,05/11/2016
+GY-L9049,INE,CAR,Loan Operation,Operation in Disbursing,11/08/2017
+GY-L9058,SCL,CAR,Loan Operation,Operation in Disbursing,11/06/2019
+GY-L9059,IFD,CAR,Loan Operation,Operation in Disbursing,09/17/19
+GY-L9060,CSD,CAR,Loan Operation,Operation in Disbursing,12/18/19
+GY-L9064,INT,CAR,Loan Operation,Operation in Disbursing,06/24/20
+GY-L9066,INE,CAR,Loan Operation,Operation in Disbursing,11/01/2012
+GY-L9067,INE,CAR,Loan Operation,Operation in Disbursing,05/01/2014
+GY-L9075,IFD,CAR,Loan Operation,Operation in Disbursing,06/24/20
+GY-L9077,SCL,CAR,Loan Operation,Operation in Disbursing,03/11/2020
+GY-L9078,IFD,CAR,Loan Operation,Operation in Disbursing,12/09/2020
+GY-X9002,INE,CAR,Investment Grants,Operation in Disbursing,08/01/2019
+GY-X9003,INE,CAR,Investment Grants,Operation in Disbursing,03/11/2020
+HA-G9022,INE,AAN,Investment Grants,Fully Disbursed,12/09/2020
+HA-G9023,CSD,AAN,Investment Grants,Operation in Disbursing,12/11/2019
+HA-G9024,SCL,AAN,Investment Grants,Operation in Disbursing,12/02/2020
+HA-G9026,SCL,AAN,Investment Grants,Operation in Disbursing,12/07/2020
+HA-G9030,INE,AAN,Investment Grants,Operation in Disbursing,10/14/20
+HA-G9034,SCL,AAN,Investment Grants,Operation in Disbursing,12/17/20
+HA-G9035,CSD,AAN,Investment Grants,Operation in Disbursing,09/24/20
+HA-G9036,CSD,AAN,Investment Grants,Operation in Disbursing,12/09/2020
+HA-G9038,CSD,AAN,Investment Grants,Fully Disbursed,12/11/2019
+HA-G9039,CSD,AAN,Investment Grants,Fully Disbursed,12/02/2020
+HA-G9045,INE,AAN,Investment Grants,Operation in Disbursing,09/14/11
+HA-G9049,CSD,AAN,Investment Grants,Operation in Disbursing,06/06/2012
+HA-L9002,CSD,AAN,Loan Operation,Operation in Disbursing,12/16/13
+HA-L9007,INE,AAN,Loan Operation,Operation in Disbursing,09/21/16
+HA-L9032,INE,AAN,Loan Operation,Operation in Disbursing,12/04/2013
+HA-L9038,INE,AAN,Loan Operation,Operation in Disbursing,09/12/2013
+HA-L9039,INE,AAN,Loan Operation,Operation in Disbursing,11/27/13
+HA-L9044,INE,AAN,Loan Operation,Operation in Disbursing,03/19/14
+HA-L9048,CSD,AAN,Loan Operation,Operation in Disbursing,11/25/15
+HA-L9049,SCL,AAN,Loan Operation,Operation in Disbursing,11/25/15
+HA-L9050,IFD,AAN,Loan Operation,Operation Closed,11/30/15
+HA-L9054,INE,AAN,Loan Operation,Operation in Disbursing,12/09/2015
+HA-L9055,CSD,AAN,Loan Operation,Operation in Disbursing,02/25/16
+HA-L9056,CSD,AAN,Loan Operation,Operation in Disbursing,09/11/2019
+HA-L9057,IFD,AAN,Loan Operation,Operation in Disbursing,12/02/2016
+HA-L9058,INE,AAN,Loan Operation,Operation Closed,12/01/2017
+HA-L9059,CSD,AAN,Loan Operation,Operation in Disbursing,12/11/2017
+HA-L9060,SCL,AAN,Loan Operation,Operation in Disbursing,12/11/2019
+HA-L9075,INE,AAN,Loan Operation,Operation in Disbursing,11/15/19
+HA-L9076,CSD,AAN,Loan Operation,Operation in Disbursing,12/13/17
+HA-L9077,SCL,AAN,Loan Operation,Fully Disbursed,07/31/18
+HA-L9078,INT,AAN,Loan Operation,Operation in Disbursing,06/27/18
+HA-L9079,INE,AAN,Loan Operation,Operation in Disbursing,12/04/2019
+HA-L9080,SCL,AAN,Loan Operation,Operation in Disbursing,12/09/2020
+HA-L9087,CSD,AAN,Loan Operation,Fully Disbursed,08/28/19
+HA-L9089,CSD,AAN,Loan Operation,Operation in Disbursing,11/06/2020
+HA-L9089B,INE,AAN,Loan Operation,Operation Closed,12/02/2020
+HA-L9094,CSD,AAN,Loan Operation,Operation in Disbursing,12/11/2019
+HA-L9095,CSD,AAN,Loan Operation,Operation in Disbursing,12/02/2019
+HA-L9096,CSD,AAN,Loan Operation,Operation in Disbursing,12/02/2020
+HA-L9097,CSD,AAN,Loan Operation,Operation in Disbursing,12/09/2020
+HA-L9098,INE,AAN,Loan Operation,Operation in Disbursing,12/12/2018
+HA-L9099,CSD,AAN,Loan Operation,Operation Closed,06/15/20
+HA-L9900,INE,AAN,Loan Operation,Operation in Disbursing,12/14/10
+HA-L9903,INE,AAN,Loan Operation,Operation in Disbursing,11/13/13
+HA-L9904,INE,AAN,Loan Operation,Operation in Disbursing,11/28/12
+HA-L9906,INE,AAN,Loan Operation,Operation in Disbursing,11/01/2012
+HA-L9907,CSD,AAN,Loan Operation,Operation in Disbursing,03/20/18
+HA-L9909,CSD,AAN,Loan Operation,Operation in Disbursing,06/17/15
+HA-L9926,IFD,AAN,Loan Operation,Operation in Disbursing,11/25/15
+HA-L9933,INT,AAN,Loan Operation,Operation in Disbursing,09/25/19
+HA-L9935,INE,AAN,Loan Operation,Operation in Disbursing,09/20/19
+HA-L9937,SCL,AAN,Loan Operation,Operation in Disbursing,06/19/20
+HA-L9939,IFD,AAN,Loan Operation,Fully Disbursed,06/15/20
+HA-L9940,INE,AAN,Loan Operation,Operation in Disbursing,12/14/10
+HA-L9945,SCL,AAN,Loan Operation,Operation in Disbursing,12/02/2020
+HA-X9002,CSD,AAN,Investment Grants,Operation in Disbursing,10/27/10
+HA-X9029,INE,AAN,Investment Grants,Fully Disbursed,06/06/2012
+HA-X9093,INE,AAN,Investment Grants,Operation in Disbursing,11/20/12
+HA-X9094,INE,AAN,Investment Grants,Operation in Disbursing,09/04/2013
+HO-G9003,SCL,AAN,Investment Grants,Operation in Disbursing,12/04/2013
+HO-G9005,INE,AAN,Investment Grants,Operation in Disbursing,06/18/14
+HO-G9006,INE,AAN,Investment Grants,Operation in Disbursing,06/27/18
+HO-G9242,SCL,AAN,Investment Grants,Operation in Disbursing,12/14/16
+HO-G9243,SCL,AAN,Investment Grants,Operation in Disbursing,06/29/17
+HO-G9244,IFD,AAN,Investment Grants,Operation in Disbursing,12/18/19
+HO-G9247,INE,AAN,Investment Grants,Operation in Disbursing,11/28/18
+HO-G9248,SCL,AAN,Investment Grants,Operation in Disbursing,12/12/2018
+HO-G9249,SCL,AAN,Investment Grants,Operation in Disbursing,11/27/19
+HO-G9250,SCL,AAN,Investment Grants,Operation in Disbursing,06/27/18
+HO-G9252,CSD,AAN,Investment Grants,Operation in Disbursing,06/27/18
+HO-G9254,CSD,AAN,Investment Grants,Operation in Disbursing,12/07/2020
+HO-G9259,IFD,AAN,Investment Grants,Operation in Disbursing,06/26/20
+HO-L9037,INE,AAN,Loan Operation,Operation in Disbursing,07/01/2020
+HO-L9039,INE,AAN,Loan Operation,Operation Closed,10/27/10
+HO-L9069,INE,AAN,Loan Operation,Fully Disbursed,04/17/13
+HO-L9093,SCL,AAN,Loan Operation,Operation in Disbursing,11/27/19
+HO-L9200,CSD,AAN,Loan Operation,Operation in Disbursing,12/05/2012
+HO-L9202,IFD,AAN,Loan Operation,Operation in Disbursing,11/14/12
+HO-L9203,INE,AAN,Loan Operation,Operation in Disbursing,10/14/20
+HO-L9207,INE,AAN,Loan Operation,Operation in Disbursing,04/23/14
+HO-L9209,IFD,AAN,Loan Operation,Operation in Disbursing,12/13/13
+HO-L9295,IFD,AAN,Loan Operation,Operation in Disbursing,12/17/20
+HO-L9296,IFD,AAN,Loan Operation,Operation in Disbursing,09/24/20
+HO-L9299,IFD,AAN,Loan Operation,Operation in Disbursing,01/01/2013
+HO-L9902,INE,AAN,Loan Operation,Operation in Disbursing,12/16/13
+HO-L9904,INE,AAN,Loan Operation,Operation in Disbursing,11/19/14
+HO-L9905,SCL,AAN,Loan Operation,Fully Disbursed,06/24/15
+HO-L9908,IFD,AAN,Loan Operation,Operation in Disbursing,09/01/2016
+HO-L9929,INE,AAN,Loan Operation,Operation in Disbursing,08/03/2016
+HO-L9979,CSD,AAN,Loan Operation,Operation in Disbursing,01/25/17
+HO-L9986,INE,AAN,Loan Operation,Operation in Disbursing,02/08/2017
+HO-L9987,IFD,AAN,Loan Operation,Operation in Disbursing,10/25/17
+HO-L9988,SCL,AAN,Loan Operation,Operation in Disbursing,11/08/2017
+HO-L9994,SCL,AAN,Loan Operation,Operation in Disbursing,11/14/18
+HO-L9995,SCL,AAN,Loan Operation,Operation in Disbursing,09/05/2018
+HO-L9997,SCL,AAN,Loan Operation,Fully Disbursed,09/19/18
+HO-L9999,SCL,AAN,Loan Operation,Operation in Disbursing,10/26/18
+JA-G9002,CSD,CAR,Investment Grants,Operation in Disbursing,03/21/19
+JA-G9003,INE,CAR,Investment Grants,Operation in Disbursing,02/28/19
+JA-G9005,SCL,CAR,Investment Grants,Operation in Disbursing,05/22/19
+JA-G9009,CSD,CAR,Investment Grants,Operation in Disbursing,11/27/19
+JA-L9035,INE,CAR,Loan Operation,Operation in Disbursing,06/26/19
+JA-L9039,IFD,CAR,Loan Operation,Operation in Disbursing,12/04/2019
+JA-L9043,IFD,CAR,Loan Operation,Operation in Disbursing,08/28/19
+JA-L9046,IFD,CAR,Loan Operation,Operation in Disbursing,07/02/2019
+JA-L9048,CSD,CAR,Loan Operation,Operation in Disbursing,03/11/2020
+JA-L9049,SCL,CAR,Loan Operation,Operation in Disbursing,11/27/19
+JA-L9053,SCL,CAR,Loan Operation,Operation in Disbursing,12/09/2020
+JA-L9056,INE,CAR,Loan Operation,Fully Disbursed,05/11/2020
+JA-L9072,IFD,CAR,Loan Operation,Operation in Disbursing,05/18/20
+JA-L9073,IFD,CAR,Loan Operation,Operation in Disbursing,10/21/20
+JA-L9074,IFD,CAR,Loan Operation,Operation in Disbursing,12/06/2018
+JA-L9075,IFD,CAR,Loan Operation,Operation in Disbursing,05/03/2018
+JA-L9078,IFD,CAR,Loan Operation,Operation in Disbursing,12/11/2018
+JA-L9079,SCL,CAR,Loan Operation,Operation in Disbursing,11/17/11
+JA-L9085,IFD,CAR,Loan Operation,Operation in Disbursing,12/05/2012
+JA-L9086,SCL,CAR,Loan Operation,Operation in Disbursing,12/09/2020
+JA-X9007,IFD,CAR,Investment Grants,Operation in Disbursing,05/21/14
+JK-0963,IFD,AAN,Grant Financing Product,Operation in Disbursing,12/07/2015
+JK-G9002,SCL,AAN,Investment Grants,Operation in Disbursing,12/07/2016
+JK-G9005,CSD,AAN,Investment Grants,Fully Disbursed,07/26/18
+JK-G9007,SCL,AAN,Investment Grants,Operation in Disbursing,09/25/19
+JK-G9009,INE,AAN,Investment Grants,Operation in Disbursing,12/02/2020
+JK-L9006,INE,AAN,Loan Operation,Fully Disbursed,07/29/20
+JK-L9023,SCL,AAN,Loan Operation,Operation in Disbursing,07/22/20
+JK-L9039,INE,AAN,Loan Operation,Operation in Disbursing,05/27/20
+JK-L9087,SCL,AAN,Loan Operation,Operation in Disbursing,06/03/2020
+JK-L9095,IFD,AAN,Loan Operation,Operation in Disbursing,01/15/20
+JK-L9096,IFD,AAN,Loan Operation,Operation in Disbursing,01/30/20
+JK-L9963,SCL,AAN,Loan Operation,Fully Disbursed,11/23/09
+JK-L9965,CSD,AAN,Loan Operation,Operation in Disbursing,12/11/2015
+JK-L9969,INE,AAN,Loan Operation,Fully Disbursed,12/07/2016
+JK-L9975,IFD,AAN,Loan Operation,Operation in Disbursing,11/02/2016
+JK-L9976,SCL,AAN,Loan Operation,Operation in Disbursing,12/09/2020
+JK-L9979,INE,AAN,Loan Operation,Operation in Disbursing,11/06/2020
+JK-X9005,INE,AAN,Investment Grants,Operation in Disbursing,02/07/2019
+ME-G9002,IFD,AAN,Investment Grants,Operation in Disbursing,12/09/2020
+ME-G9003,INE,AAN,Investment Grants,Operation in Disbursing,08/28/20
+ME-G9004,SCL,AAN,Investment Grants,Operation in Disbursing,11/23/09
+ME-G9005,INE,AAN,Investment Grants,Operation in Disbursing,07/12/2013
+ME-G9006,IFD,AAN,Investment Grants,Operation in Disbursing,12/11/2009
+ME-G9092,INE,AAN,Investment Grants,Operation in Disbursing,06/21/12
+ME-L9256,CSD,AAN,Loan Operation,Operation Closed,07/03/2014
+ME-L9257,SCL,AAN,Loan Operation,Operation in Disbursing,06/25/14
+ME-L9258,SCL,AAN,Loan Operation,Operation in Disbursing,12/03/2014
+ME-L9259,IFD,AAN,Loan Operation,Operation Closed,12/14/16
+ME-L9267,INE,AAN,Loan Operation,Operation in Disbursing,10/26/16
+ME-L9268,CSD,AAN,Loan Operation,Operation in Disbursing,11/30/16
+ME-L9284,IFD,AAN,Loan Operation,Operation Closed,11/16/16
+ME-L9289,SCL,AAN,Loan Operation,Operation in Disbursing,12/02/2020
+ME-L9290,IFD,AAN,Loan Operation,Operation in Disbursing,11/16/18
+ME-L9297,IFD,AAN,Loan Operation,Operation in Disbursing,12/02/2020
+ME-L9309,IFD,AAN,Loan Operation,Operation in Disbursing,12/09/2020
+ME-L9920,IFD,AAN,Loan Operation,Fully Disbursed,12/03/2020
+ME-L9942,SCL,AAN,Loan Operation,Operation Closed,06/25/14
+ME-L9945,IFD,AAN,Loan Operation,Operation in Disbursing,07/03/2014
+ME-L9948,IFD,AAN,Loan Operation,Operation in Disbursing,11/08/2010
+ME-L9962,SCL,AAN,Loan Operation,Operation in Disbursing,07/31/13
+ME-L9972,IFD,AAN,Loan Operation,Operation in Disbursing,12/14/15
+ME-L9976,INE,AAN,Loan Operation,Operation Closed,08/30/17
+ME-L9990,IFD,AAN,Loan Operation,Operation in Disbursing,11/01/2017
+ME-L9999,IFD,AAN,Loan Operation,Operation in Disbursing,06/22/18
+ME-X9099,INE,AAN,Investment Grants,Operation in Disbursing,11/13/19
+NI-G9002,INE,AAN,Investment Grants,Operation in Disbursing,12/02/2008
+NI-G9005,SCL,AAN,Investment Grants,Operation Closed,12/14/11
+NI-G9006,INE,AAN,Investment Grants,Operation in Disbursing,04/28/10
+NI-G9007,INE,AAN,Investment Grants,Fully Disbursed,08/02/2011
+NI-G9008,INE,AAN,Investment Grants,Operation in Disbursing,06/19/13
+NI-G9020,INT,AAN,Investment Grants,Operation in Disbursing,09/13/12
+NI-G9022,SCL,AAN,Investment Grants,Fully Disbursed,11/28/12
+NI-G9029,SCL,AAN,Investment Grants,Operation in Disbursing,11/20/13
+NI-L9022,INE,AAN,Loan Operation,Operation in Disbursing,11/26/14
+NI-L9033,IFD,AAN,Loan Operation,Operation Closed,11/27/13
+NI-L9040,INE,AAN,Loan Operation,Operation in Disbursing,06/12/2014
+NI-L9063,INE,AAN,Loan Operation,Operation in Disbursing,07/23/14
+NI-L9068,SCL,AAN,Loan Operation,Operation in Disbursing,12/11/2014
+NI-L9079,INE,AAN,Loan Operation,Operation in Disbursing,06/24/15
+NI-L9080,IFD,AAN,Loan Operation,Operation Closed,12/14/15
+NI-L9082,SCL,AAN,Loan Operation,Operation in Disbursing,10/28/15
+NI-L9083,INT,AAN,Loan Operation,Operation in Disbursing,12/17/14
+NI-L9087,INE,AAN,Loan Operation,Operation in Disbursing,10/25/17
+NI-L9090,IFD,AAN,Loan Operation,Operation in Disbursing,10/03/2018
+NI-L9092,INE,AAN,Loan Operation,Operation in Disbursing,09/19/18
+NI-L9094,INE,AAN,Loan Operation,Operation in Disbursing,11/01/2017
+NI-L9095,SCL,AAN,Loan Operation,Operation in Disbursing,10/25/17
+NI-L9097,INE,AAN,Loan Operation,Fully Disbursed,07/02/2019
+NI-L9099,INE,AAN,Loan Operation,Operation in Disbursing,10/18/19
+NI-L9943,SCL,AAN,Loan Operation,Operation in Disbursing,12/06/2018
+NI-L9945,INE,AAN,Loan Operation,Operation in Disbursing,11/07/2018
+NI-L9963,IFD,AAN,Loan Operation,Operation in Disbursing,06/15/20
+NI-L9969,SCL,AAN,Loan Operation,Operation in Disbursing,06/19/20
+NI-X9099,CSD,AAN,Investment Grants,Operation in Disbursing,09/23/09
+OC-0250,IFD,NAC,Grant Financing Product,Operation in Disbursing,08/03/2018
+OC-G9002,CSD,NAC,Investment Grants,Operation in Disbursing,11/30/18
+OC-G9003,INE,NAC,Investment Grants,Operation in Disbursing,08/03/2017
+OC-L9026,CSD,NAC,Loan Operation,Operation Closed,07/16/18
+OC-L9036,INE,NAC,Loan Operation,Operation in Disbursing,05/13/19
+OC-L9039,INE,NAC,Loan Operation,Operation Closed,12/12/2019
+OC-L9067,CSD,NAC,Loan Operation,Operation in Disbursing,12/04/2019
+OC-L9068,CSD,NAC,Loan Operation,Operation Closed,07/14/20
+OC-L9079,CSD,NAC,Loan Operation,Fully Disbursed,12/01/2010
+OC-L9079B,INE,NAC,Loan Operation,Fully Disbursed,11/22/10
+OC-L9084,INE,NAC,Loan Operation,Operation in Disbursing,12/03/2014
+OC-L9097,IFD,NAC,Loan Operation,Operation in Disbursing,03/12/2015
+OC-L9243,CSD,NAC,Loan Operation,Operation in Disbursing,12/02/2015
+OC-L9247,IFD,NAC,Loan Operation,Operation in Disbursing,09/01/2016
+OC-L9248,IFD,NAC,Loan Operation,Operation in Disbursing,09/21/15
+OC-L9249,IFD,NAC,Loan Operation,Operation in Disbursing,10/19/16
+OC-L9252,IFD,NAC,Loan Operation,Operation in Disbursing,11/23/16
+OC-L9254,SCL,NAC,Loan Operation,Operation in Disbursing,12/14/16
+OC-L9255,IFD,NAC,Loan Operation,Operation in Disbursing,09/05/2018
+OC-L9257,INE,NAC,Loan Operation,Operation in Disbursing,04/25/18
+OC-L9258,INE,NAC,Loan Operation,Operation in Disbursing,12/13/17
+OC-L9259,INT,NAC,Loan Operation,Operation in Disbursing,04/01/2020
+OC-L9260,CSD,NAC,Loan Operation,Operation in Disbursing,10/03/2018
+OC-L9266,IFD,NAC,Loan Operation,Operation in Disbursing,12/12/2018
+OC-L9267,INE,NAC,Loan Operation,Operation in Disbursing,12/04/2019
+OC-L9272,IFD,NAC,Loan Operation,Operation in Disbursing,12/11/2019
+OC-L9273,INE,NAC,Loan Operation,Operation in Disbursing,12/11/2019
+OC-L9274,INE,NAC,Loan Operation,Operation in Disbursing,10/14/20
+OC-L9279,INE,NAC,Loan Operation,Operation in Disbursing,12/11/2019
+OC-L9280,IFD,NAC,Loan Operation,Operation in Disbursing,07/08/2020
+OC-L9282,IFD,NAC,Loan Operation,Operation in Disbursing,07/23/20
+OC-L9285,IFD,NAC,Loan Operation,Operation in Disbursing,09/09/2014
+OC-L9288,CSD,NAC,Loan Operation,Fully Disbursed,12/11/2014
+OC-L9289,IFD,NAC,Loan Operation,Operation Closed,10/13/17
+OC-L9292,IFD,NAC,Loan Operation,Fully Disbursed,12/12/2019
+OC-L9293,INE,NAC,Loan Operation,Operation in Disbursing,11/17/11
+OC-L9295,INE,NAC,Loan Operation,Operation in Disbursing,06/18/14
+OC-L9302,SCL,NAC,Loan Operation,Operation in Disbursing,12/13/13
+OC-L9306,CSD,NAC,Loan Operation,Operation in Disbursing,12/11/2014
+OC-L9307,INE,NAC,Loan Operation,Operation in Disbursing,11/14/18
+OC-L9309,SCL,NAC,Loan Operation,Operation in Disbursing,10/21/15
+OC-L9326,SCL,NAC,Loan Operation,Operation in Disbursing,06/15/20
+OC-L9327,IFD,NAC,Loan Operation,Operation in Disbursing,06/26/20
+OC-L9328,IFD,NAC,Loan Operation,Operation in Disbursing,07/01/2020
+OC-L9390,IFD,NAC,Loan Operation,Operation in Disbursing,11/22/17
+OC-L9392,SCL,NAC,Loan Operation,Operation in Disbursing,06/29/17
+OC-L9906,INE,NAC,Loan Operation,Operation Closed,10/31/18
+OC-L9909,CSD,NAC,Loan Operation,Operation Closed,09/17/19
+OC-L9922,INE,NAC,Loan Operation,Operation in Disbursing,09/16/20
+OC-L9929,INE,NAC,Loan Operation,Operation in Disbursing,12/13/13
+OC-L9930,IFD,NAC,Loan Operation,Operation in Disbursing,11/14/12
+OC-L9933,INE,NAC,Loan Operation,Operation in Disbursing,05/29/14
+OC-L9936,INE,NAC,Loan Operation,Operation in Disbursing,12/19/14
+OC-L9939,INE,NAC,Loan Operation,Operation in Disbursing,10/18/17
+OC-L9940,CSD,NAC,Loan Operation,Operation in Disbursing,05/29/14
+OC-L9944,INE,NAC,Loan Operation,Operation in Disbursing,10/18/17
+OC-L9945,IFD,NAC,Loan Operation,Operation in Disbursing,09/27/17
+OC-L9948,CSD,NAC,Loan Operation,Fully Disbursed,04/18/18
+OC-L9949,IFD,NAC,Loan Operation,Operation in Disbursing,05/15/20
+OC-L9952,SCL,NAC,Loan Operation,Operation in Disbursing,12/04/2019
+OC-L9954,IFD,NAC,Loan Operation,Operation in Disbursing,09/23/20
+OC-L9956,IFD,NAC,Loan Operation,Fully Disbursed,06/30/20
+OC-L9957,IFD,NAC,Loan Operation,Operation in Disbursing,05/15/12
+OC-L9958,INE,NAC,Loan Operation,Operation in Disbursing,12/16/14
+OC-L9959,INE,NAC,Loan Operation,Operation in Disbursing,09/07/2016
+OC-L9959B,CSD,NAC,Loan Operation,Operation in Disbursing,09/07/2016
+OC-L9962,INE,NAC,Loan Operation,Operation in Disbursing,09/07/2016
+OC-L9979,CSD,NAC,Loan Operation,Operation in Disbursing,12/01/2017
+OC-L9980,SCL,NAC,Loan Operation,Operation in Disbursing,07/27/18
+OC-L9989,IFD,NAC,Loan Operation,Operation in Disbursing,03/27/19
+OC-L9995,INE,NAC,Loan Operation,Operation in Disbursing,10/29/14
+OC-L9996,SCL,NAC,Loan Operation,Operation in Disbursing,06/17/15
+OC-L9998,CSD,NAC,Loan Operation,Operation in Disbursing,11/26/14
+OC-L9999,INE,NAC,Loan Operation,Operation in Disbursing,12/09/2015
+OC-L9999B,#N/A,NAC,Loan Operation,Operation in Disbursing,12/09/2015
+PN-G9003,INE,AAN,Investment Grants,Operation in Disbursing,11/10/2015
+PN-G9004,SCL,AAN,Investment Grants,Operation Closed,09/07/2016
+PN-G9007,SCL,AAN,Investment Grants,Operation in Disbursing,06/23/16
+PN-L9047,INE,AAN,Loan Operation,Operation in Disbursing,11/23/16
+PN-L9064,SCL,AAN,Loan Operation,Operation in Disbursing,12/01/2017
+PN-L9072,SCL,AAN,Loan Operation,Operation in Disbursing,11/29/17
+PN-L9093,INE,AAN,Loan Operation,Operation in Disbursing,07/31/20
+PN-L9095,INE,AAN,Loan Operation,Operation in Disbursing,12/11/2020
+PN-L9905,SCL,AAN,Loan Operation,Operation in Disbursing,09/19/18
+PN-L9907,INT,AAN,Loan Operation,Operation in Disbursing,02/01/2006
+PN-L9909,INE,AAN,Loan Operation,Operation in Disbursing,12/03/2014
+PN-L9929,INE,AAN,Loan Operation,Operation in Disbursing,08/30/12
+PN-L9943,SCL,AAN,Loan Operation,Operation in Disbursing,07/24/12
+PN-L9946,CSD,AAN,Loan Operation,Fully Disbursed,11/27/13
+PN-L9947,INE,AAN,Loan Operation,Operation in Disbursing,06/25/14
+PN-L9948,INE,AAN,Loan Operation,Operation in Disbursing,09/04/2013
+PN-L9949,IFD,AAN,Loan Operation,Operation Closed,11/18/15
+PN-L9950,INE,AAN,Loan Operation,Operation in Disbursing,12/03/2014
+PN-L9953,SCL,AAN,Loan Operation,Operation in Disbursing,12/14/16
+PN-L9954,CSD,AAN,Loan Operation,Operation in Disbursing,09/30/15
+PN-L9955,INE,AAN,Loan Operation,Operation in Disbursing,09/14/17
+PN-L9957,SCL,AAN,Loan Operation,Operation in Disbursing,09/30/15
+PN-L9959,INE,AAN,Loan Operation,Operation in Disbursing,03/11/2020
+PN-L9960,SCL,AAN,Loan Operation,Operation in Disbursing,12/09/2020
+PN-L9963,IFD,AAN,Loan Operation,Operation in Disbursing,11/22/17
+PN-L9964,IFD,AAN,Loan Operation,Operation in Disbursing,05/11/2020
+PN-L9969,IFD,AAN,Loan Operation,Operation in Disbursing,05/18/20
+PN-L9994,IFD,AAN,Loan Operation,Fully Disbursed,07/10/2018
+PN-L9995,SCL,AAN,Loan Operation,Operation in Disbursing,12/14/18
+PN-L9997,IFD,AAN,Loan Operation,Operation in Disbursing,12/15/17
+PN-X9099,IFD,AAN,Investment Grants,Operation in Disbursing,12/18/19
+PP-G9002,INE,LATAM,Investment Grants,Operation in Disbursing,12/06/2017
+PP-G9003,CSD,LATAM,Investment Grants,Fully Disbursed,09/19/18
+PP-G9009,CSD,LATAM,Investment Grants,Operation in Disbursing,12/11/2019
+PP-L9026,CSD,LATAM,Loan Operation,Operation in Disbursing,12/14/18
+PP-L9039,IFD,LATAM,Loan Operation,Operation in Disbursing,12/14/18
+PP-L9058,INE,LATAM,Loan Operation,Operation in Disbursing,11/06/2019
+PP-L9060,INE,LATAM,Loan Operation,Fully Disbursed,07/10/2019
+PP-L9062,SCL,LATAM,Loan Operation,Operation in Disbursing,12/16/20
+PP-L9068,IFD,LATAM,Loan Operation,Operation in Disbursing,07/11/2012
+PP-L9090,INE,LATAM,Loan Operation,Operation in Disbursing,02/05/2019
+PP-L9092,INE,LATAM,Loan Operation,Operation in Disbursing,11/22/10
+PP-L9222,IFD,LATAM,Loan Operation,Operation in Disbursing,06/06/2012
+PP-L9223,SCL,LATAM,Loan Operation,Operation in Disbursing,10/02/2013
+PP-L9224,IFD,LATAM,Loan Operation,Operation in Disbursing,04/16/14
+PP-L9226,INE,LATAM,Loan Operation,Operation in Disbursing,08/05/2015
+PP-L9227,SCL,LATAM,Loan Operation,Fully Disbursed,04/25/18
+PP-L9228,SCL,LATAM,Loan Operation,Operation in Disbursing,07/29/15
+PP-L9229,CSD,LATAM,Loan Operation,Operation in Disbursing,05/25/16
+PP-L9230,IFD,LATAM,Loan Operation,Operation in Disbursing,12/11/2015
+PP-L9232,CSD,LATAM,Loan Operation,Operation in Disbursing,06/08/2016
+PP-L9238,INE,LATAM,Loan Operation,Fully Disbursed,11/16/16
+PP-L9239,IFD,LATAM,Loan Operation,Fully Disbursed,11/01/2017
+PP-L9239B,IFD,LATAM,Loan Operation,Operation in Disbursing,12/13/17
+PP-L9240,IFD,LATAM,Loan Operation,Operation in Disbursing,07/18/18
+PP-L9244,IFD,LATAM,Loan Operation,Operation Closed,12/08/2017
+PP-L9246,CSD,LATAM,Loan Operation,Operation in Disbursing,12/06/2018
+PP-L9247,IFD,LATAM,Loan Operation,Operation in Disbursing,11/26/18
+PP-L9269,IFD,LATAM,Loan Operation,Operation in Disbursing,10/21/20
+PP-L9906,IFD,LATAM,Loan Operation,Operation Closed,05/24/19
+PP-L9909,IFD,LATAM,Loan Operation,Operation in Disbursing,05/17/19
+PP-L9922,CSD,LATAM,Loan Operation,Operation Closed,12/09/2020
+PP-L9925,CSD,LATAM,Loan Operation,Operation in Disbursing,09/30/20
+PP-L9930,IFD,LATAM,Loan Operation,Operation in Disbursing,09/30/20
+PP-L9932,IFD,LATAM,Loan Operation,Fully Disbursed,06/01/2020
+PP-L9935,INE,LATAM,Loan Operation,Operation in Disbursing,12/12/2013
+PP-L9947,INE,LATAM,Loan Operation,Operation in Disbursing,10/03/2011
+PP-L9952,SCL,LATAM,Loan Operation,Operation in Disbursing,12/15/14
+PP-L9953,INE,LATAM,Loan Operation,Operation in Disbursing,09/29/10
+PP-L9959,INE,LATAM,Loan Operation,Operation in Disbursing,11/17/10
+PP-L9959B,INT,LATAM,Loan Operation,Operation in Disbursing,01/01/2012
+PP-L9962,IFD,LATAM,Loan Operation,Operation in Disbursing,12/12/2012
+PP-L9969,SCL,LATAM,Loan Operation,Operation Closed,10/03/2011
+PP-L9979,IFD,LATAM,Loan Operation,Operation in Disbursing,12/07/2011
+PP-X9004,INE,LATAM,Investment Grants,Operation in Disbursing,12/16/13
+PR-G9009,INE,NAC,Investment Grants,Operation in Disbursing,12/02/2015
+PR-L9027,IFD,NAC,Loan Operation,Operation in Disbursing,05/15/13
+PR-L9029,INE,NAC,Loan Operation,Operation in Disbursing,11/26/14
+PR-L9044,INE,NAC,Loan Operation,Fully Disbursed,12/03/2014
+PR-L9050,CSD,NAC,Loan Operation,Operation in Disbursing,11/26/14
+PR-L9058,INE,NAC,Loan Operation,Operation in Disbursing,09/21/15
+PR-L9059,SCL,NAC,Loan Operation,Operation in Disbursing,11/26/14
+PR-L9060,INE,NAC,Loan Operation,Operation in Disbursing,06/24/15
+PR-L9066,SCL,NAC,Loan Operation,Operation in Disbursing,12/07/2015
+PR-L9069,INT,NAC,Loan Operation,Fully Disbursed,12/02/2015
+PR-L9070,IFD,NAC,Loan Operation,Operation in Disbursing,12/11/2015
+PR-L9075,INE,NAC,Loan Operation,Operation in Disbursing,02/25/16
+PR-L9077,IFD,NAC,Loan Operation,Fully Disbursed,12/05/2016
+PR-L9080,INE,NAC,Loan Operation,Operation in Disbursing,12/12/2016
+PR-L9082,CSD,NAC,Loan Operation,Operation in Disbursing,12/07/2016
+PR-L9084,INE,NAC,Loan Operation,Operation in Disbursing,11/22/17
+PR-L9086,IFD,NAC,Loan Operation,Operation in Disbursing,07/26/18
+PR-L9089,IFD,NAC,Loan Operation,Operation in Disbursing,12/01/2017
+PR-L9092,INE,NAC,Loan Operation,Operation in Disbursing,05/09/2018
+PR-L9094,INE,NAC,Loan Operation,Operation in Disbursing,11/14/18
+PR-L9095,IFD,NAC,Loan Operation,Operation in Disbursing,11/14/18
+PR-L9097,SCL,NAC,Loan Operation,Operation in Disbursing,12/06/2018
+PR-L9099,INE,NAC,Loan Operation,Operation Closed,11/01/2018
+PR-L9905,INE,NAC,Loan Operation,Operation in Disbursing,10/31/18
+PR-L9939,INT,NAC,Loan Operation,Operation in Disbursing,11/28/18
+PR-L9940,IFD,NAC,Loan Operation,Operation in Disbursing,11/06/2019
+PR-L9944,IFD,NAC,Loan Operation,Operation in Disbursing,11/08/2019
+PR-L9945,INE,NAC,Loan Operation,Operation in Disbursing,11/25/20
+PR-L9946,IFD,NAC,Loan Operation,Operation in Disbursing,12/04/2019
+PR-L9947,CSD,NAC,Loan Operation,Operation in Disbursing,03/05/2020
+PR-L9948,CSD,NAC,Loan Operation,Operation in Disbursing,11/27/19
+PR-L9950,IFD,NAC,Loan Operation,Fully Disbursed,10/16/20
+PR-L9952,CSD,NAC,Loan Operation,Operation in Disbursing,09/25/19
+PR-L9953,IFD,NAC,Loan Operation,Operation in Disbursing,10/25/19
+PR-L9955,CSD,NAC,Loan Operation,Operation in Disbursing,05/15/20
+PR-L9956,INE,NAC,Loan Operation,Operation in Disbursing,05/06/2020
+PR-L9957,IFD,NAC,Loan Operation,Operation in Disbursing,09/09/2020
+PR-L9958,SCL,NAC,Loan Operation,Operation in Disbursing,05/15/20
+PR-L9959,IFD,NAC,Loan Operation,Operation in Disbursing,10/22/97
+PR-L9959B,#N/A,NAC,Loan Operation,Operation in Disbursing,01/29/20
+PR-L9962,CSD,NAC,Loan Operation,Operation in Disbursing,10/13/15
+PR-L9963,IFD,NAC,Loan Operation,Operation in Disbursing,12/12/2018
+PR-L9964,INE,NAC,Loan Operation,Operation in Disbursing,12/13/19
+PR-L9965,IFD,NAC,Loan Operation,Operation in Disbursing,07/29/20
+PR-L9967,SCL,NAC,Loan Operation,Operation in Disbursing,10/24/12
+PR-L9969,IFD,NAC,Loan Operation,Operation in Disbursing,10/13/15
+PR-L9970,IFD,NAC,Loan Operation,Operation in Disbursing,12/12/2016
+PR-L9972,INE,NAC,Loan Operation,Operation in Disbursing,07/22/20
+PR-L9973,INE,NAC,Loan Operation,Operation in Disbursing,05/27/20
+PR-L9974,INE,NAC,Loan Operation,Operation in Disbursing,06/03/2020
+PR-L9975,SCL,NAC,Loan Operation,Operation in Disbursing,01/15/20
+PR-L9976,IFD,NAC,Loan Operation,Operation in Disbursing,11/21/18
+PR-X9003,INE,NAC,Investment Grants,Operation in Disbursing,07/02/2019
+RE-G9002,INE,LATAM,Investment Grants,Operation in Disbursing,12/11/2019
+RE-G9007,INE,LATAM,Investment Grants,Operation in Disbursing,11/27/19
+RE-G9023,CSD,LATAM,Investment Grants,Operation in Disbursing,01/30/20
+RE-G9024,CSD,LATAM,Investment Grants,Operation in Disbursing,01/15/20
+RE-G9025,CSD,LATAM,Investment Grants,Operation in Disbursing,04/11/2013
+RE-G9025 ,CSD,LATAM,Investment Grants,Operation in Disbursing,12/09/2020
+RE-G9027,CSD,LATAM,Investment Grants,Operation in Disbursing,08/28/20
+RE-G9028,SCL,LATAM,Investment Grants,Operation in Disbursing,12/16/20
+RE-G9092,CSD,LATAM,Investment Grants,Operation in Disbursing,12/02/2015
+RE-G9093,SCL,LATAM,Investment Grants,Operation in Disbursing,12/17/14
+RE-G9095,CSD,LATAM,Investment Grants,Operation in Disbursing,01/25/17
+RE-G9097,INE,LATAM,Investment Grants,Operation in Disbursing,12/09/2020
+RE-G9098,SCL,LATAM,Investment Grants,Operation in Disbursing,06/29/17
+RE-G9099,CSD,LATAM,Investment Grants,Fully Disbursed,09/26/18
+RE-G9099B,#N/A,LATAM,Investment Grants,Operation in Disbursing,12/03/2020
+RE-J0009,INE,LATAM,Grant Financing Product,Operation in Disbursing,07/08/2020
+RE-J0090,SCL,LATAM,Grant Financing Product,Operation in Disbursing,07/14/20
+RE-J0099,SCL,LATAM,Grant Financing Product,Operation in Disbursing,04/01/2020
+RE-L9034,INE,LATAM,Loan Operation,Operation in Disbursing,03/06/2020
+RE-L9093,SCL,LATAM,Loan Operation,Operation in Disbursing,02/26/20
+RE-L9096,INE,LATAM,Loan Operation,Operation in Disbursing,10/26/11
+RE-L9097,IFD,LATAM,Loan Operation,Operation in Disbursing,12/12/2012
+RE-L9099,INE,LATAM,Loan Operation,Operation in Disbursing,10/23/13
+RE-L9225,IFD,LATAM,Loan Operation,Operation in Disbursing,12/04/2013
+RE-L9228,IFD,LATAM,Loan Operation,Operation in Disbursing,12/17/14
+RE-L9229,SCL,LATAM,Loan Operation,Operation in Disbursing,05/20/15
+RE-L9232,INE,LATAM,Loan Operation,Operation in Disbursing,11/10/2015
+RE-L9233,IFD,LATAM,Loan Operation,Operation in Disbursing,06/12/2020
+RE-L9234,INE,LATAM,Loan Operation,Operation in Disbursing,06/12/2020
+RE-L9236,IFD,LATAM,Loan Operation,Operation in Disbursing,01/01/2012
+RE-L9242,INE,LATAM,Loan Operation,Operation in Disbursing,10/14/20
+RE-L9243,IFD,LATAM,Loan Operation,Fully Disbursed,01/01/2013
+RE-L9245,IFD,LATAM,Loan Operation,Operation in Disbursing,07/08/2020
+RE-L9248,SCL,LATAM,Loan Operation,Operation in Disbursing,07/23/20
+RE-L9249,INT,LATAM,Loan Operation,Operation in Disbursing,12/16/14
+RE-L9250,SCL,LATAM,Loan Operation,Operation in Disbursing,11/10/2015
+RE-L9252,SCL,LATAM,Loan Operation,Operation Closed,12/14/15
+RE-L9254,IFD,LATAM,Loan Operation,Operation in Disbursing,07/20/16
+RE-L9255,IFD,LATAM,Loan Operation,Operation in Disbursing,09/16/20
+RE-L9259,IFD,LATAM,Loan Operation,Operation in Disbursing,11/02/2016
+RE-L9263,INT,LATAM,Loan Operation,Operation in Disbursing,11/30/16
+RE-L9269,SCL,LATAM,Loan Operation,Operation in Disbursing,05/15/20
+RE-L9902,IFD,LATAM,Loan Operation,Operation Closed,12/06/2018
+RE-L9905,INE,LATAM,Loan Operation,Operation in Disbursing,10/19/16
+RE-L9909,INE,LATAM,Loan Operation,Fully Disbursed,11/16/16
+RE-L9925,CSD,LATAM,Loan Operation,Fully Disbursed,11/17/16
+RE-L9926,IFD,LATAM,Loan Operation,Fully Disbursed,09/14/17
+RE-L9933,CSD,LATAM,Loan Operation,Operation Closed,10/11/2017
+RE-L9938,INT,LATAM,Loan Operation,Operation in Disbursing,09/22/17
+RE-L9939,INE,LATAM,Loan Operation,Operation in Disbursing,11/01/2018
+RE-L9940,IFD,LATAM,Loan Operation,Operation in Disbursing,10/31/18
+RE-L9954,IFD,LATAM,Loan Operation,Operation in Disbursing,10/26/18
+RE-L9955,CSD,LATAM,Loan Operation,Operation in Disbursing,11/07/2018
+RE-L9956,INE,LATAM,Loan Operation,Operation in Disbursing,12/06/2018
+RE-L9964,IFD,LATAM,Loan Operation,Operation in Disbursing,08/21/19
+RE-L9965,CSD,LATAM,Loan Operation,Operation in Disbursing,07/02/2019
+RE-L9966,CSD,LATAM,Loan Operation,Operation in Disbursing,07/30/19
+RE-L9969,IFD,LATAM,Loan Operation,Operation in Disbursing,09/04/2019
+RE-L9999,INE,LATAM,Loan Operation,Operation in Disbursing,08/28/19
+RG-0094,IFD,LATAM,Grant Financing Product,Operation in Disbursing,09/23/20
+RG-G9004,INE,CAR,Investment Grants,Operation in Disbursing,12/11/2019
+RG-G9006,CSD,LATAM,Investment Grants,Operation in Disbursing,12/16/19
+RG-G9009,INE,CAR,Investment Grants,Operation in Disbursing,12/07/2020
+RG-G9024,CSD,LATAM,Investment Grants,Operation in Disbursing,05/21/20
+RG-G9025,CSD,LATAM,Investment Grants,Operation in Disbursing,06/23/20
+RG-G9027,SCL,LATAM,Investment Grants,Operation Closed,08/28/20
+RG-G9090,INE,LATAM,Investment Grants,Operation Closed,06/06/2007
+RG-G9093,INE,CAR,Investment Grants,Operation in Disbursing,10/14/09
+RG-L9074,INE,NAC,Loan Operation,Operation in Disbursing,10/27/10
+RG-L9079,INE,CAR,Loan Operation,Operation in Disbursing,12/09/2020
+RG-L9098,IFD,CAR,Loan Operation,Operation in Disbursing,12/08/2020
+RG-L9924,INE,NAC,Loan Operation,Operation in Disbursing,11/13/19
+RG-L9926,INT,NAC,Loan Operation,Operation in Disbursing,07/08/2020
+RG-L9932,INE,LATAM,Loan Operation,Operation in Disbursing,09/23/09
+RG-L9934,INE,NAC,Loan Operation,Operation in Disbursing,08/03/2018
+RG-L9939,INE,NAC,Loan Operation,Operation in Disbursing,11/30/18
+RG-L9943,IFD,CAR,Loan Operation,Operation in Disbursing,06/30/20
+RG-L9992,INE,CAR,Loan Operation,Operation in Disbursing,07/16/18
+RG-L9995,IFD,NAC,Loan Operation,Operation in Disbursing,05/13/19
+RG-L9996,INE,NAC,Loan Operation,Operation in Disbursing,12/12/2019
+RG-X9099,INE,CAR,Investment Grants,Fully Disbursed,12/04/2019
+RG-X9992,SCL,AAN,Investment Grants,Operation in Disbursing,07/14/20
+SU-G9004,CSD,CAR,Investment Grants,Fully Disbursed,12/01/2010
+SU-G9009,INE,CAR,Investment Grants,Fully Disbursed,11/22/10
+SU-L9009,INE,CAR,Loan Operation,Operation in Disbursing,12/03/2014
+SU-L9020,CSD,CAR,Loan Operation,Operation in Disbursing,03/12/2015
+SU-L9038,SCL,CAR,Loan Operation,Operation in Disbursing,12/02/2015
+SU-L9039,INE,CAR,Loan Operation,Operation in Disbursing,09/01/2016
+SU-L9046,CSD,CAR,Loan Operation,Fully Disbursed,09/21/15
+SU-L9049,IFD,CAR,Loan Operation,Operation in Disbursing,11/13/19
+SU-L9050,IFD,CAR,Loan Operation,Operation in Disbursing,07/08/2020
+SU-L9052,CSD,CAR,Loan Operation,Operation in Disbursing,09/23/09
+SU-L9054,SCL,CAR,Loan Operation,Operation in Disbursing,08/03/2018
+SU-L9055,INE,CAR,Loan Operation,Operation in Disbursing,11/30/18
+SU-L9056,INT,CAR,Loan Operation,Operation in Disbursing,08/03/2017
+SU-L9057,INE,CAR,Loan Operation,Fully Disbursed,07/16/18
+SU-L9058,INE,CAR,Loan Operation,Operation in Disbursing,05/13/19
+SU-L9059,SCL,CAR,Loan Operation,Operation in Disbursing,12/12/2019
+TT-L9026,INE,CAR,Loan Operation,Operation in Disbursing,12/04/2019
+TT-L9034,IFD,CAR,Loan Operation,Operation in Disbursing,07/14/20
+TT-L9038,INT,CAR,Loan Operation,Operation in Disbursing,12/01/2010
+TT-L9039,SCL,CAR,Loan Operation,Operation in Disbursing,11/22/10
+TT-L9042,IFD,CAR,Loan Operation,Fully Disbursed,12/03/2014
+TT-L9044,INT,CAR,Loan Operation,Operation in Disbursing,03/12/2015
+TT-L9056,CSD,CAR,Loan Operation,Operation in Disbursing,07/31/20
+TT-L9057,CSD,CAR,Loan Operation,Operation in Disbursing,12/11/2020
+TT-L9058,IFD,CAR,Loan Operation,Operation in Disbursing,09/21/15
+TT-L9060,SCL,CAR,Loan Operation,Operation in Disbursing,10/19/16
+TT-L9098,INE,CAR,Loan Operation,Operation in Disbursing,11/23/16
+UR-L9038,IFD,NAC,Loan Operation,Operation Closed,12/14/16
+UR-L9060,INT,NAC,Loan Operation,Operation in Disbursing,09/05/2018
+UR-L9063,INE,NAC,Loan Operation,Operation in Disbursing,04/25/18
+UR-L9064,CSD,NAC,Loan Operation,Operation in Disbursing,12/13/17
+UR-L9066,CSD,NAC,Loan Operation,Operation in Disbursing,04/01/2020
+UR-L9067,INE,NAC,Loan Operation,Operation in Disbursing,10/03/2018
+UR-L9069,INE,NAC,Loan Operation,Operation in Disbursing,12/12/2018
+UR-L9070,INE,NAC,Loan Operation,Operation in Disbursing,12/04/2019
+UR-L9074,IFD,NAC,Loan Operation,Operation in Disbursing,12/11/2019
+UR-L9082,IFD,NAC,Loan Operation,Operation in Disbursing,12/11/2019
+UR-L9083,CSD,NAC,Loan Operation,Operation Closed,10/14/20
+UR-L9084,CSD,NAC,Loan Operation,Operation in Disbursing,12/11/2019
+UR-L9087,INE,NAC,Loan Operation,Operation in Disbursing,07/08/2020
+UR-L9089,IFD,NAC,Loan Operation,Operation in Disbursing,07/23/20
+UR-L9089B,#N/A,NAC,Loan Operation,Operation in Disbursing,09/09/2014
+UR-L9094,INE,NAC,Loan Operation,Operation in Disbursing,12/11/2014
+UR-L9096,IFD,NAC,Loan Operation,Operation Closed,10/13/17
+UR-L9097,INT,NAC,Loan Operation,Operation in Disbursing,12/12/2019
+UR-L9098,IFD,NAC,Loan Operation,Operation in Disbursing,11/17/11
+UR-L9099,IFD,NAC,Loan Operation,Operation in Disbursing,06/18/14
+UR-L9906,INT,NAC,Loan Operation,Operation in Disbursing,12/13/13
+UR-L9907,INE,NAC,Loan Operation,Operation in Disbursing,12/11/2014
+UR-L9908,IFD,NAC,Loan Operation,Operation Closed,11/14/18
+UR-L9909,IFD,NAC,Loan Operation,Operation in Disbursing,10/21/15
+UR-L9935,CSD,NAC,Loan Operation,Operation in Disbursing,12/14/16
+UR-L9936,INE,NAC,Loan Operation,Operation in Disbursing,12/08/2017
+UR-L9940,INT,NAC,Loan Operation,Operation Closed,11/15/17
+UR-L9942,IFD,NAC,Loan Operation,Operation in Disbursing,11/22/17
+UR-L9943,IFD,NAC,Loan Operation,Operation in Disbursing,06/29/17
+UR-L9946,CSD,NAC,Loan Operation,Operation in Disbursing,10/31/18
+UR-L9947,CSD,NAC,Loan Operation,Operation in Disbursing,09/17/19
+UR-L9949,INE,NAC,Loan Operation,Operation in Disbursing,09/16/20
+UR-L9949B,SCL,NAC,Loan Operation,Fully Disbursed,12/13/13
+UR-L9950,INT,NAC,Loan Operation,Operation in Disbursing,11/14/12
+UR-L9952,IFD,NAC,Loan Operation,Operation in Disbursing,05/29/14
+UR-L9953,INE,NAC,Loan Operation,Operation in Disbursing,12/19/14
+UR-L9955,CSD,NAC,Loan Operation,Operation in Disbursing,10/18/17
+UR-L9956,INT,NAC,Loan Operation,Operation Closed,05/29/14
+UR-L9957,CSD,NAC,Loan Operation,Operation in Disbursing,10/18/17
+UR-L9958,IFD,NAC,Loan Operation,Operation in Disbursing,09/27/17
+UR-L9959,IFD,NAC,Loan Operation,Fully Disbursed,04/18/18
+UR-L9959B,IFD,NAC,Loan Operation,Operation in Disbursing,05/15/20
+UR-L9962,IFD,NAC,Loan Operation,Operation in Disbursing,12/04/2019
+UR-L9963,IFD,NAC,Loan Operation,Operation in Disbursing,12/16/20
+UR-L9969,SCL,NAC,Loan Operation,Operation in Disbursing,06/30/20
+UR-L9970,IFD,NAC,Loan Operation,Operation in Disbursing,12/09/2020
+UR-L9972,SCL,NAC,Loan Operation,Operation in Disbursing,09/30/20
+UR-L9979,IFD,NAC,Loan Operation,Operation in Disbursing,09/30/20
+UR-L9990,SCL,NAC,Loan Operation,Operation in Disbursing,09/07/2016
+UR-L9992,IFD,NAC,Loan Operation,Operation in Disbursing,09/07/2016
+UR-L9993,CSD,NAC,Loan Operation,Operation in Disbursing,12/01/2017
+UR-L9994,INE,NAC,Loan Operation,Operation in Disbursing,07/27/18
+UR-L9995,IFD,NAC,Loan Operation,Operation in Disbursing,03/27/19
+UR-L9996,SCL,NAC,Loan Operation,Operation in Disbursing,10/29/14
+UR-L9999,IFD,NAC,Loan Operation,Fully Disbursed,06/17/15
+US-G9003,CSD,NAC,Investment Grants,Operation in Disbursing,11/26/14
+US-G9004,CSD,NAC,Investment Grants,Operation in Disbursing,12/09/2015
+US-G9006,INE,NAC,Investment Grants,Operation in Disbursing,12/09/2015
+US-L9076,CSD,NAC,Loan Operation,Operation in Disbursing,11/10/2015
+US-L9087,CSD,NAC,Loan Operation,Operation in Disbursing,09/07/2016
+US-L9098,INE,NAC,Loan Operation,Operation in Disbursing,06/23/16
+US-L9204,CSD,NAC,Loan Operation,Operation in Disbursing,11/23/16
+US-L9223,IFD,NAC,Loan Operation,Operation in Disbursing,12/01/2017
+US-L9224,IFD,NAC,Loan Operation,Operation Closed,11/29/17
+US-L9226,CSD,NAC,Loan Operation,Operation in Disbursing,07/31/20
+US-L9227,INE,NAC,Loan Operation,Operation in Disbursing,12/11/2020
+US-L9230,IFD,NAC,Loan Operation,Operation in Disbursing,09/19/18
+US-L9233,IFD,NAC,Loan Operation,Operation in Disbursing,02/01/2006
+US-L9234,IFD,NAC,Loan Operation,Operation in Disbursing,12/03/2014
+US-L9237,IFD,NAC,Loan Operation,Operation in Disbursing,08/30/12
+US-L9249,CSD,NAC,Loan Operation,Operation in Disbursing,07/24/12
+US-L9250,IFD,NAC,Loan Operation,Operation in Disbursing,11/27/13
+US-L9254,IFD,NAC,Loan Operation,Operation in Disbursing,06/25/14
+US-L9255,IFD,NAC,Loan Operation,Operation Closed,09/04/2013
+US-L9256,CSD,NAC,Loan Operation,Operation in Disbursing,11/18/15
+US-L9263,INE,NAC,Loan Operation,Operation in Disbursing,12/03/2014
+US-L9272,INE,NAC,Loan Operation,Operation in Disbursing,12/14/16
+US-L9282,INE,NAC,Loan Operation,Operation Closed,09/30/15
+US-L9284,INE,NAC,Loan Operation,Operation in Disbursing,09/14/17
+US-L9289,CSD,NAC,Loan Operation,Operation in Disbursing,09/30/15
+US-L9290,CSD,NAC,Loan Operation,Operation Closed,06/30/16
+US-L9295,INE,NAC,Loan Operation,Operation in Disbursing,09/21/17
+US-L9295B,INE,NAC,Loan Operation,Operation in Disbursing,11/22/17
+US-L9296,INE,NAC,Loan Operation,Operation in Disbursing,09/27/19
+US-L9296B,#N/A,NAC,Loan Operation,Operation in Disbursing,12/11/2017
+US-L9297,INE,NAC,Loan Operation,Fully Disbursed,07/10/2018
+US-L9300,CSD,NAC,Loan Operation,Fully Disbursed,12/14/18
+US-L9303,INE,NAC,Loan Operation,Operation in Disbursing,12/15/17
+US-L9326,INE,NAC,Loan Operation,Operation in Disbursing,12/18/19
+US-L9327,SCL,NAC,Loan Operation,Operation in Disbursing,12/06/2017
+US-L9328,SCL,NAC,Loan Operation,Operation in Disbursing,09/19/18
+US-L9329,SCL,NAC,Loan Operation,Operation in Disbursing,12/11/2019
+US-L9333,INE,NAC,Loan Operation,Operation in Disbursing,12/14/18
+US-L9335,INE,NAC,Loan Operation,Operation in Disbursing,12/14/18
+US-L9336,INE,NAC,Loan Operation,Operation Closed,11/06/2019
+US-L9339,IFD,NAC,Loan Operation,Operation in Disbursing,07/10/2019
+US-L9343,IFD,NAC,Loan Operation,Operation in Disbursing,12/16/20
+US-L9344,CSD,NAC,Loan Operation,Operation in Disbursing,07/11/2012
+US-L9349,IFD,NAC,Loan Operation,Operation in Disbursing,02/05/2019
+US-L9363,INE,NAC,Loan Operation,Operation in Disbursing,11/22/10
+US-L9369,INE,NAC,Loan Operation,Operation in Disbursing,06/06/2012
+US-L9372,SCL,NAC,Loan Operation,Operation in Disbursing,10/02/2013
+US-L9373,INE,NAC,Loan Operation,Fully Disbursed,04/16/14
+US-L9376,SCL,NAC,Loan Operation,Operation in Disbursing,08/05/2015
+US-L9377,IFD,NAC,Loan Operation,Operation in Disbursing,04/25/18
+US-L9386,CSD,NAC,Loan Operation,Operation in Disbursing,07/29/15
+US-L9387,IFD,NAC,Loan Operation,Operation in Disbursing,05/25/16
+US-L9389,SCL,NAC,Loan Operation,Fully Disbursed,12/11/2015
+US-L9392,SCL,NAC,Loan Operation,Operation in Disbursing,06/08/2016
+US-L9394,INE,NAC,Loan Operation,Operation in Disbursing,11/16/16
+US-L9395,INE,NAC,Loan Operation,Operation in Disbursing,11/01/2017
+US-L9399,IFD,NAC,Loan Operation,Fully Disbursed,12/13/17
+US-L9402,INE,NAC,Loan Operation,Operation in Disbursing,07/18/18
+US-L9405,INE,NAC,Loan Operation,Operation in Disbursing,12/08/2017
+US-L9406,SCL,NAC,Loan Operation,Operation in Disbursing,12/06/2018
+US-L9408,SCL,NAC,Loan Operation,Operation in Disbursing,11/26/18
+US-L9409,INE,NAC,Loan Operation,Operation in Disbursing,12/11/2019
+US-L9422,CSD,NAC,Loan Operation,Operation in Disbursing,05/24/19
+US-L9429,SCL,NAC,Loan Operation,Operation in Disbursing,05/17/19
+US-L9429B,CSD,NAC,Loan Operation,Operation in Disbursing,12/09/2020
+US-L9434,INE,NAC,Loan Operation,Operation in Disbursing,09/30/20
+US-L9445,INE,NAC,Loan Operation,Operation in Disbursing,09/30/20
+US-L9487,INE,NAC,Loan Operation,Operation in Disbursing,06/01/2020
+US-L9490,IFD,NAC,Loan Operation,Operation in Disbursing,12/12/2013
+US-L9492,INE,NAC,Loan Operation,Operation in Disbursing,10/03/2011
+US-L9492B,CSD,NAC,Loan Operation,Operation in Disbursing,12/15/14
+US-L9494,SCL,NAC,Loan Operation,Operation in Disbursing,09/29/10
+US-L9495,SCL,NAC,Loan Operation,Operation in Disbursing,11/17/10
+US-L9495B,INE,NAC,Loan Operation,Operation in Disbursing,01/01/2012
+US-L9496,CSD,NAC,Loan Operation,Operation in Disbursing,12/12/2012
+US-L9497,CSD,NAC,Loan Operation,Fully Disbursed,10/03/2011
+US-L9498,IFD,NAC,Loan Operation,Operation in Disbursing,12/07/2011
+US-L9499,INE,NAC,Loan Operation,Operation in Disbursing,12/16/13
+US-L9499B,IFD,NAC,Loan Operation,Operation in Disbursing,12/02/2015
+US-L9500,IFD,NAC,Loan Operation,Fully Disbursed,05/15/13
+US-L9502,IFD,NAC,Loan Operation,Operation in Disbursing,11/26/14
+US-L9503,INE,NAC,Loan Operation,Operation in Disbursing,12/03/2014
+US-L9508,INE,NAC,Loan Operation,Operation in Disbursing,11/26/14
+US-L9509,IFD,NAC,Loan Operation,Operation in Disbursing,09/21/15
+US-L9520,CSD,NAC,Loan Operation,Operation in Disbursing,11/26/14
+US-L9523,SCL,NAC,Loan Operation,Operation in Disbursing,06/01/2020
+US-L9524,INE,NAC,Loan Operation,Operation in Disbursing,12/07/2015
+US-L9525,IFD,NAC,Loan Operation,Operation in Disbursing,12/02/2015
+US-L9526,SCL,NAC,Loan Operation,Operation in Disbursing,12/11/2015
+US-L9527,IFD,NAC,Loan Operation,Operation in Disbursing,02/25/16
+US-L9528,CSD,NAC,Loan Operation,Operation in Disbursing,12/05/2016
+US-L9529,CSD,NAC,Loan Operation,Operation in Disbursing,12/12/2016
+US-L9529B,IFD,NAC,Loan Operation,Operation in Disbursing,12/07/2016
+US-L9532,INE,NAC,Loan Operation,Operation in Disbursing,11/22/17
+US-L9533,IFD,NAC,Loan Operation,Operation in Disbursing,07/26/18
+US-L9534,IFD,NAC,Loan Operation,Operation in Disbursing,12/01/2017
+US-L9535,IFD,NAC,Loan Operation,Operation in Disbursing,11/25/20
+US-L9536,INE,NAC,Loan Operation,Fully Disbursed,11/14/18
+US-L9543,SCL,NAC,Loan Operation,Operation in Disbursing,03/05/2020
+US-L9545,IFD,NAC,Loan Operation,Operation in Disbursing,10/16/20
+US-L9546,IFD,NAC,Loan Operation,Operation in Disbursing,11/01/2018
+US-L9549,IFD,NAC,Loan Operation,Operation in Disbursing,10/31/18
+US-L9554,SCL,NAC,Loan Operation,Operation in Disbursing,05/15/20
+US-L9555,IFD,NAC,Loan Operation,Operation in Disbursing,05/06/2020
+US-L9556,IFD,NAC,Loan Operation,Operation in Disbursing,09/09/2020
+US-L9557,IFD,NAC,Loan Operation,Operation in Disbursing,05/15/20
+US-L9559,IFD,NAC,Loan Operation,Operation in Disbursing,11/25/20
+US-L9596,IFD,NAC,Loan Operation,Operation in Disbursing,03/05/2020
+US-L9597,IFD,NAC,Loan Operation,Operation in Disbursing,11/27/19
+US-L9598,SCL,NAC,Loan Operation,Fully Disbursed,10/16/20
+US-L9599,SCL,NAC,Loan Operation,Operation in Disbursing,09/25/19
+US-L9599B,IFD,NAC,Loan Operation,Operation in Disbursing,10/25/19
+US-L9960,CSD,NAC,Loan Operation,Operation Closed,05/15/20
+US-L9966,INE,NAC,Loan Operation,Operation in Disbursing,05/06/2020
+US-L9975,CSD,NAC,Loan Operation,Operation in Disbursing,09/09/2020
+US-L9976,CSD,NAC,Loan Operation,Operation in Disbursing,05/15/20
+US-L9983,CSD,NAC,Loan Operation,Operation in Disbursing,10/22/97
+US-L9987,CSD,NAC,Loan Operation,Operation in Disbursing,10/13/15
+US-L9997,CSD,NAC,Loan Operation,Fully Disbursed,10/13/15
+ZN-L9029,INE,LATAM,Loan Operation,Operation in Disbursing,12/12/2018
+ZN-L9033,INE,LATAM,Loan Operation,Operation in Disbursing,12/13/19
+ZN-L9037,INE,LATAM,Loan Operation,Operation in Disbursing,12/19/19
+ZN-L9097,SCL,LATAM,Loan Operation,Operation in Disbursing,10/24/12

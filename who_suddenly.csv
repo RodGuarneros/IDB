@@ -1,0 +1,12 @@
+,index,id_project_x,Quarter2_y,0.Not Rated,1.Low,2.Moderate,3.Substantial,4.High,Quarter,year,id_project,category,ESRR,SPR,REGION,SECTOR,Sector_1,Region_1,Operation_Type,Stage,Approval,Quarter2
+5,4,CR-L9032,Q4,,,,3,4,Q4 2018,2018,CR-L9032,B,3.Substantial,Partially Satisfactory,AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,11/01/2012,Q4
+6,4,CR-L9032,Q4,,,,3,4,Q4 2019,2019,CR-L9032,B,3.Substantial,Partially Unsatisfactory,AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,11/01/2012,Q4
+7,4,CR-L9032,Q4,,,,3,4,Q4 2020,2020,CR-L9032,B,4.High,Partially Satisfactory,AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,11/01/2012,Q4
+63,41,PN-L9929,Q1,,,2,3,,Q1 2020,2020,PN-L9929,B,3.Substantial,Satisfactory,AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,08/30/12,Q1
+64,41,PN-L9929,Q1,,,2,3,,Q1 2021,2021,PN-L9929,C,2.Moderate,Satisfactory,AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,08/30/12,Q1
+111,70,UR-L9949,Q4,,,2,3,,Q4 2018,2018,UR-L9949,B,2.Moderate,{Not Set},NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,09/16/20,Q4
+112,70,UR-L9949,Q4,,,2,3,,Q4 2019,2019,UR-L9949,C,1.Low,{Not Set},NAC,SCL,INE,NAC,Loan Operation,Operation in Disbursing,09/16/20,Q4
+113,70,UR-L9949,Q4,,,2,3,,Q4 2020,2020,UR-L9949,B,3.Substantial,Partially Satisfactory,NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,09/16/20,Q4
+123,77,US-L9499,Q4,,1,2,,,Q4 2018,2018,US-L9499,B,2.Moderate,{Not Set},NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,12/16/13,Q4
+124,77,US-L9499,Q4,,1,2,,,Q4 2019,2019,US-L9499,C,1.Low,{Not Set},NAC,IFD,INE,NAC,Loan Operation,Operation in Disbursing,12/16/13,Q4
+125,77,US-L9499,Q4,,1,2,,,Q4 2020,2020,US-L9499,C,1.Low,{Not Set},NAC,IFD,INE,NAC,Loan Operation,Operation in Disbursing,12/16/13,Q4

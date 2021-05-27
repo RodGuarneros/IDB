@@ -1,0 +1,136 @@
+,index,id_project_x,Quarter2_y,0.Not Rated,1.Low,2.Moderate,3.Substantial,4.High,Quarter,year,id_project,category,ESRR,SPR,REGION,SECTOR,Sector_1,Region_1,Operation_Type,Stage,Approval,Quarter2
+0,0,BA-L9043,Q3,,,2,,,Q3 2020,2020,BA-L9043,B,2.Moderate,{Not Set},CAR,INE,INE,CAR,Loan Operation,Operation in Disbursing,07/23/14,Q3
+1,1,BA-L9043,Q4,,,,3,,Q4 2019,2019,BA-L9043,B,2.Moderate,{Not Set},CAR,INE,INE,CAR,Loan Operation,Operation in Disbursing,07/23/14,Q4
+2,1,BA-L9043,Q4,,,,3,,Q4 2020,2020,BA-L9043,B,3.Substantial,Satisfactory,CAR,INE,INE,CAR,Loan Operation,Operation in Disbursing,07/23/14,Q4
+3,2,BO-L9906,Q2,,,,3,,Q2 2020,2020,BO-L9906,B,3.Substantial,Partially Satisfactory,LATAM,CSD,CSD,LATAM,Loan Operation,Operation in Disbursing,12/08/2010,Q2
+4,3,BO-L9906,Q3,,,,,4,Q3 2020,2020,BO-L9906,B,3.Substantial,Partially Satisfactory,LATAM,CSD,CSD,LATAM,Loan Operation,Operation in Disbursing,12/08/2010,Q3
+5,4,CR-L9032,Q4,,,,3,4,Q4 2018,2018,CR-L9032,B,3.Substantial,Partially Satisfactory,AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,11/01/2012,Q4
+6,4,CR-L9032,Q4,,,,3,4,Q4 2019,2019,CR-L9032,B,3.Substantial,Partially Unsatisfactory,AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,11/01/2012,Q4
+7,4,CR-L9032,Q4,,,,3,4,Q4 2020,2020,CR-L9032,B,4.High,Partially Satisfactory,AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,11/01/2012,Q4
+8,5,DR-L9934,Q2,,,,3,,Q2 2020,2020,DR-L9934,B13,4.High,Partially Satisfactory,AAN,CSD,CSD,AAN,Loan Operation,Operation in Disbursing,10/24/13,Q2
+9,6,DR-L9934,Q3,,,,,4,Q3 2020,2020,DR-L9934,B13,4.High,Partially Satisfactory,AAN,CSD,CSD,AAN,Loan Operation,Operation in Disbursing,10/24/13,Q3
+10,7,DR-L9935,Q1,,,,,4,Q1 2020,2020,DR-L9935,B,4.High,Partially Satisfactory,AAN,CSD,CSD,AAN,Loan Operation,Operation in Disbursing,06/25/12,Q1
+11,7,DR-L9935,Q1,,,,,4,Q1 2021,2021,DR-L9935,B,3.Substantial,Partially Satisfactory,AAN,CSD,CSD,AAN,Loan Operation,Operation in Disbursing,06/25/12,Q1
+12,8,DR-L9935,Q4,,,,3,,Q4 2019,2019,DR-L9935,B,4.High,Partially Satisfactory,AAN,CSD,CSD,AAN,Loan Operation,Operation in Disbursing,06/25/12,Q4
+13,8,DR-L9935,Q4,,,,3,,Q4 2020,2020,DR-L9935,B,3.Substantial,Partially Satisfactory,AAN,CSD,CSD,AAN,Loan Operation,Operation in Disbursing,06/25/12,Q4
+14,9,EC-J0006,Q1,,1,,,,Q1 2021,2021,EC-J0006,,1.Low,{Not Set},LATAM,SCL,SCL,LATAM,Grant Financing Product,Operation in Disbursing,01/15/20,Q1
+15,10,EC-J0006,Q4,0,,,,,Q4 2020,2020,EC-J0006,,1.Low,{Not Set},LATAM,SCL,SCL,LATAM,Grant Financing Product,Operation in Disbursing,01/15/20,Q4
+16,11,EC-L9999,Q3,,1,,,,Q3 2020,2020,EC-L9999,C,1.Low,{Not Set},LATAM,IFD,INE,LATAM,Loan Operation,Operation in Disbursing,08/30/18,Q3
+17,12,EC-L9999,Q4,,,,3,,Q4 2018,2018,EC-L9999,A,3.Substantial,Partially Unsatisfactory,LATAM,INE,INE,LATAM,Loan Operation,Operation in Disbursing,08/30/18,Q4
+18,12,EC-L9999,Q4,,,,3,,Q4 2019,2019,EC-L9999,C,1.Low,{Not Set},LATAM,IFD,INE,LATAM,Loan Operation,Operation in Disbursing,08/30/18,Q4
+19,12,EC-L9999,Q4,,,,3,,Q4 2020,2020,EC-L9999,C,1.Low,{Not Set},LATAM,IFD,INE,LATAM,Loan Operation,Operation in Disbursing,08/30/18,Q4
+20,13,ES-L9096,Q2,,,2,,,Q2 2020,2020,ES-L9096,B,3.Substantial,Partially Satisfactory,AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,12/14/18,Q2
+21,14,ES-L9096,Q3,,,,3,,Q3 2020,2020,ES-L9096,B,3.Substantial,Partially Satisfactory,AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,12/14/18,Q3
+22,15,ES-L9939,Q2,,1,,,,Q2 2020,2020,ES-L9939,C,1.Low,{Not Set},AAN,IFD,IFD,AAN,Loan Operation,Operation in Disbursing,12/18/19,Q2
+23,16,ES-L9939,Q3,,,,3,,Q3 2020,2020,ES-L9939,B,3.Substantial,{Not Set},AAN,SCL,IFD,AAN,Loan Operation,Operation in Disbursing,12/18/19,Q3
+24,17,HA-L9089,Q3,,,,3,,Q3 2020,2020,HA-L9089,B,4.High,Partially Satisfactory,AAN,INE,CSD,AAN,Loan Operation,Operation in Disbursing,11/06/2020,Q3
+25,18,HA-L9089,Q4,,,,,4,Q4 2018,2018,HA-L9089,A,4.High,Unsatisfactory,AAN,CSD,CSD,AAN,Loan Operation,Operation in Disbursing,11/06/2020,Q4
+26,18,HA-L9089,Q4,,,,,4,Q4 2019,2019,HA-L9089,B,4.High,Partially Satisfactory,AAN,INE,CSD,AAN,Loan Operation,Operation in Disbursing,11/06/2020,Q4
+27,18,HA-L9089,Q4,,,,,4,Q4 2020,2020,HA-L9089,B,3.Substantial,Partially Satisfactory,AAN,INE,CSD,AAN,Loan Operation,Operation in Disbursing,11/06/2020,Q4
+28,19,HO-G9254,Q1,0,,,,,Q1 2021,2021,HO-G9254,C,1.Low,{Not Set},AAN,CSD,CSD,AAN,Investment Grants,Operation in Disbursing,12/07/2020,Q1
+29,20,HO-G9254,Q2,,1,,,,,,,,,,,,,,,,,
+30,21,HO-L9986,Q1,,,,,4,Q1 2020,2020,HO-L9986,B,4.High,{Not Set},AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,02/08/2017,Q1
+31,21,HO-L9986,Q1,,,,,4,Q1 2021,2021,HO-L9986,,3.Substantial,Satisfactory,AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,02/08/2017,Q1
+32,22,HO-L9986,Q4,,,,3,,Q4 2018,2018,HO-L9986,B,4.High,{Not Set},AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,02/08/2017,Q4
+33,22,HO-L9986,Q4,,,,3,,Q4 2019,2019,HO-L9986,B,4.High,{Not Set},AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,02/08/2017,Q4
+34,22,HO-L9986,Q4,,,,3,,Q4 2020,2020,HO-L9986,B,3.Substantial,Satisfactory,AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,02/08/2017,Q4
+35,23,HO-L9988,Q1,,,,3,,Q1 2020,2020,HO-L9988,C,2.Moderate,{Not Set},AAN,SCL,SCL,AAN,Loan Operation,Operation in Disbursing,11/08/2017,Q1
+36,23,HO-L9988,Q1,,,,3,,Q1 2021,2021,HO-L9988,C,2.Moderate,{Not Set},AAN,SCL,SCL,AAN,Loan Operation,Operation in Disbursing,11/08/2017,Q1
+37,24,HO-L9988,Q3,,,2,,,Q3 2020,2020,HO-L9988,C,2.Moderate,{Not Set},AAN,SCL,SCL,AAN,Loan Operation,Operation in Disbursing,11/08/2017,Q3
+38,25,ME-G9002,Q3,,,2,,,Q3 2020,2020,ME-G9002,B13,2.Moderate,Satisfactory,AAN,IFD,IFD,AAN,Investment Grants,Operation in Disbursing,12/09/2020,Q3
+39,26,ME-G9002,Q4,,,,3,,Q4 2018,2018,ME-G9002,B13,3.Substantial,{Not Set},AAN,IFD,IFD,AAN,Investment Grants,Operation in Disbursing,12/09/2020,Q4
+40,26,ME-G9002,Q4,,,,3,,Q4 2019,2019,ME-G9002,B13,3.Substantial,Satisfactory,AAN,IFD,IFD,AAN,Investment Grants,Operation in Disbursing,12/09/2020,Q4
+41,26,ME-G9002,Q4,,,,3,,Q4 2020,2020,ME-G9002,B13,2.Moderate,Satisfactory,AAN,IFD,IFD,AAN,Investment Grants,Operation in Disbursing,12/09/2020,Q4
+42,27,ME-L9948,Q3,,,2,,,Q3 2020,2020,ME-L9948,B13,2.Moderate,Satisfactory,AAN,IFD,IFD,AAN,Loan Operation,Operation in Disbursing,11/08/2010,Q3
+43,28,ME-L9948,Q4,,,,3,,Q4 2018,2018,ME-L9948,B13,3.Substantial,Satisfactory,AAN,IFD,IFD,AAN,Loan Operation,Operation in Disbursing,11/08/2010,Q4
+44,28,ME-L9948,Q4,,,,3,,Q4 2019,2019,ME-L9948,B13,3.Substantial,Satisfactory,AAN,IFD,IFD,AAN,Loan Operation,Operation in Disbursing,11/08/2010,Q4
+45,28,ME-L9948,Q4,,,,3,,Q4 2020,2020,ME-L9948,B13,2.Moderate,Satisfactory,AAN,IFD,IFD,AAN,Loan Operation,Operation in Disbursing,11/08/2010,Q4
+46,29,OC-L9079,Q2,,1,,,,Q2 2020,2020,OC-L9079,B,1.Low,Satisfactory,NAC,INE,CSD,NAC,Loan Operation,Fully Disbursed,12/01/2010,Q2
+47,30,OC-L9079,Q3,,,,3,,Q3 2020,2020,OC-L9079,B,1.Low,Satisfactory,NAC,INE,CSD,NAC,Loan Operation,Fully Disbursed,12/01/2010,Q3
+48,31,OC-L9392,Q3,,1,,,,Q3 2020,2020,OC-L9392,B13,2.Moderate,{Not Set},NAC,SCL,SCL,NAC,Loan Operation,Operation in Disbursing,06/29/17,Q3
+49,32,OC-L9392,Q4,,,2,,,Q4 2019,2019,OC-L9392,B13,1.Low,{Not Set},NAC,SCL,SCL,NAC,Loan Operation,Operation in Disbursing,06/29/17,Q4
+50,32,OC-L9392,Q4,,,2,,,Q4 2020,2020,OC-L9392,B13,2.Moderate,{Not Set},NAC,SCL,SCL,NAC,Loan Operation,Operation in Disbursing,06/29/17,Q4
+51,33,OC-L9936,Q1,,,2,,,Q1 2020,2020,OC-L9936,B,2.Moderate,Partially Satisfactory,NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,12/19/14,Q1
+52,33,OC-L9936,Q1,,,2,,,Q1 2021,2021,OC-L9936,B,3.Substantial,Satisfactory,NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,12/19/14,Q1
+53,34,OC-L9936,Q2,,,,3,,Q2 2020,2020,OC-L9936,B,3.Substantial,Partially Satisfactory,NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,12/19/14,Q2
+54,35,OC-L9948,Q2,,,,3,,Q2 2020,2020,OC-L9948,B,3.Substantial,Partially Satisfactory,NAC,CSD,CSD,NAC,Loan Operation,Fully Disbursed,04/18/18,Q2
+55,36,OC-L9948,Q3,,,,,4,Q3 2020,2020,OC-L9948,B,4.High,Partially Satisfactory,NAC,CSD,CSD,NAC,Loan Operation,Fully Disbursed,04/18/18,Q3
+56,37,OC-L9959,Q2,,,2,,,Q2 2020,2020,OC-L9959,B,2.Moderate,{Not Set},NAC,CSD,INE,NAC,Loan Operation,Operation in Disbursing,09/07/2016,Q2
+57,38,OC-L9959,Q3,,,,3,,Q3 2020,2020,OC-L9959,B,2.Moderate,{Not Set},NAC,CSD,INE,NAC,Loan Operation,Operation in Disbursing,09/07/2016,Q3
+58,39,PN-L9072,Q1,,,,,4,Q1 2020,2020,PN-L9072,B,3.Substantial,Partially Satisfactory,AAN,SCL,SCL,AAN,Loan Operation,Operation in Disbursing,11/29/17,Q1
+59,39,PN-L9072,Q1,,,,,4,Q1 2021,2021,PN-L9072,B,4.High,Partially Satisfactory,AAN,SCL,SCL,AAN,Loan Operation,Operation in Disbursing,11/29/17,Q1
+60,40,PN-L9072,Q4,,,,3,,Q4 2018,2018,PN-L9072,B,3.Substantial,{Not Set},AAN,SCL,SCL,AAN,Loan Operation,Operation in Disbursing,11/29/17,Q4
+61,40,PN-L9072,Q4,,,,3,,Q4 2019,2019,PN-L9072,B,3.Substantial,Partially Satisfactory,AAN,SCL,SCL,AAN,Loan Operation,Operation in Disbursing,11/29/17,Q4
+62,40,PN-L9072,Q4,,,,3,,Q4 2020,2020,PN-L9072,B,4.High,Partially Satisfactory,AAN,SCL,SCL,AAN,Loan Operation,Operation in Disbursing,11/29/17,Q4
+63,41,PN-L9929,Q1,,,2,3,,Q1 2020,2020,PN-L9929,B,3.Substantial,Satisfactory,AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,08/30/12,Q1
+64,41,PN-L9929,Q1,,,2,3,,Q1 2021,2021,PN-L9929,C,2.Moderate,Satisfactory,AAN,INE,INE,AAN,Loan Operation,Operation in Disbursing,08/30/12,Q1
+65,42,PP-L9092,Q1,,,2,,,Q1 2020,2020,PP-L9092,B,3.Substantial,Partially Satisfactory,LATAM,INE,INE,LATAM,Loan Operation,Operation in Disbursing,11/22/10,Q1
+66,42,PP-L9092,Q1,,,2,,,Q1 2021,2021,PP-L9092,B,2.Moderate,Satisfactory,LATAM,INE,INE,LATAM,Loan Operation,Operation in Disbursing,11/22/10,Q1
+67,43,PP-L9092,Q2,,,,3,,Q2 2020,2020,PP-L9092,B,3.Substantial,Partially Satisfactory,LATAM,INE,INE,LATAM,Loan Operation,Operation in Disbursing,11/22/10,Q2
+68,44,PP-L9953,Q3,,,2,,,Q3 2020,2020,PP-L9953,B,2.Moderate,{Not Set},LATAM,INE,INE,LATAM,Loan Operation,Operation in Disbursing,09/29/10,Q3
+69,45,PP-L9953,Q4,,,,3,,Q4 2018,2018,PP-L9953,B,2.Moderate,{Not Set},LATAM,INE,INE,LATAM,Loan Operation,Operation in Disbursing,09/29/10,Q4
+70,45,PP-L9953,Q4,,,,3,,Q4 2019,2019,PP-L9953,B,2.Moderate,{Not Set},LATAM,INE,INE,LATAM,Loan Operation,Operation in Disbursing,09/29/10,Q4
+71,45,PP-L9953,Q4,,,,3,,Q4 2020,2020,PP-L9953,B,3.Substantial,Partially Satisfactory,LATAM,INE,INE,LATAM,Loan Operation,Operation in Disbursing,09/29/10,Q4
+72,46,PP-L9959,Q1,,1,,,,Q1 2020,2020,PP-L9959,A,3.Substantial,Partially Unsatisfactory,LATAM,INE,INE,LATAM,Loan Operation,Operation in Disbursing,11/17/10,Q1
+73,46,PP-L9959,Q1,,1,,,,Q1 2021,2021,PP-L9959,C,1.Low,{Not Set},LATAM,INT,INE,LATAM,Loan Operation,Operation in Disbursing,11/17/10,Q1
+74,47,PP-L9959,Q2,,,,3,,Q2 2020,2020,PP-L9959,C,1.Low,{Not Set},LATAM,INT,INE,LATAM,Loan Operation,Operation in Disbursing,11/17/10,Q2
+75,48,PR-L9948,Q3,,,2,,,Q3 2020,2020,PR-L9948,B,2.Moderate,{Not Set},NAC,CSD,CSD,NAC,Loan Operation,Operation in Disbursing,11/27/19,Q3
+76,49,PR-L9948,Q4,,,,3,,Q4 2018,2018,PR-L9948,B,2.Moderate,{Not Set},NAC,CSD,CSD,NAC,Loan Operation,Operation in Disbursing,11/27/19,Q4
+77,49,PR-L9948,Q4,,,,3,,Q4 2019,2019,PR-L9948,B,2.Moderate,{Not Set},NAC,CSD,CSD,NAC,Loan Operation,Operation in Disbursing,11/27/19,Q4
+78,49,PR-L9948,Q4,,,,3,,Q4 2020,2020,PR-L9948,B,3.Substantial,Satisfactory,NAC,CSD,CSD,NAC,Loan Operation,Operation in Disbursing,11/27/19,Q4
+79,50,RE-G9099,Q3,,1,,,,Q3 2020,2020,RE-G9099,B13,2.Moderate,{Not Set},LATAM,CSD,CSD,LATAM,Investment Grants,Fully Disbursed,09/26/18,Q3
+80,51,RE-G9099,Q4,,,2,,,Q4 2019,2019,RE-G9099,B13,2.Moderate,{Not Set},LATAM,CSD,CSD,LATAM,Investment Grants,Fully Disbursed,09/26/18,Q4
+81,51,RE-G9099,Q4,,,2,,,Q4 2020,2020,RE-G9099,,1.Low,{Not Set},LATAM,SCL,CSD,LATAM,Investment Grants,Fully Disbursed,09/26/18,Q4
+82,52,RE-J0090,Q2,0,,,,,,,,,,,,,,,,,,
+83,53,RE-J0090,Q3,,1,,,,Q3 2020,2020,RE-J0090,,0.Not Rated,{Not Set},LATAM,SCL,SCL,LATAM,Grant Financing Product,Operation in Disbursing,07/14/20,Q3
+84,54,RG-L9074,Q2,,1,,,,Q2 2020,2020,RG-L9074,C,4.High,Satisfactory,NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,10/27/10,Q2
+85,55,RG-L9074,Q3,,,,,4,Q3 2020,2020,RG-L9074,C,1.Low,Satisfactory,NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,10/27/10,Q3
+86,56,RG-L9996,Q2,,,,,4,Q2 2020,2020,RG-L9996,A,4.High,Satisfactory,NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,12/12/2019,Q2
+87,57,RG-L9996,Q4,,1,,,,Q4 2018,2018,RG-L9996,A,4.High,{Not Set},NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,12/12/2019,Q4
+88,57,RG-L9996,Q4,,1,,,,Q4 2019,2019,RG-L9996,A,4.High,Satisfactory,NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,12/12/2019,Q4
+89,57,RG-L9996,Q4,,1,,,,Q4 2020,2020,RG-L9996,A,1.Low,Satisfactory,NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,12/12/2019,Q4
+90,58,SU-L9055,Q1,,,,,4,Q1 2020,2020,SU-L9055,B,4.High,{Not Set},CAR,INE,INE,CAR,Loan Operation,Operation in Disbursing,11/30/18,Q1
+91,58,SU-L9055,Q1,,,,,4,Q1 2021,2021,SU-L9055,B,3.Substantial,Satisfactory,CAR,INE,INE,CAR,Loan Operation,Operation in Disbursing,11/30/18,Q1
+92,59,SU-L9055,Q4,,,,3,,Q4 2019,2019,SU-L9055,B,4.High,{Not Set},CAR,INE,INE,CAR,Loan Operation,Operation in Disbursing,11/30/18,Q4
+93,59,SU-L9055,Q4,,,,3,,Q4 2020,2020,SU-L9055,B,3.Substantial,Satisfactory,CAR,INE,INE,CAR,Loan Operation,Operation in Disbursing,11/30/18,Q4
+94,60,TT-L9034,Q3,,1,,,,Q3 2020,2020,TT-L9034,C,2.Moderate,{Not Set},CAR,IFD,IFD,CAR,Loan Operation,Operation in Disbursing,07/14/20,Q3
+95,61,TT-L9034,Q4,,,2,,,Q4 2018,2018,TT-L9034,C,1.Low,{Not Set},CAR,IFD,IFD,CAR,Loan Operation,Operation in Disbursing,07/14/20,Q4
+96,61,TT-L9034,Q4,,,2,,,Q4 2019,2019,TT-L9034,C,1.Low,{Not Set},CAR,IFD,IFD,CAR,Loan Operation,Operation in Disbursing,07/14/20,Q4
+97,61,TT-L9034,Q4,,,2,,,Q4 2020,2020,TT-L9034,C,2.Moderate,{Not Set},CAR,IFD,IFD,CAR,Loan Operation,Operation in Disbursing,07/14/20,Q4
+98,62,TT-L9038,Q1,,1,,,,Q1 2020,2020,TT-L9038,C,1.Low,{Not Set},CAR,INT,INT,CAR,Loan Operation,Operation in Disbursing,12/01/2010,Q1
+99,62,TT-L9038,Q1,,1,,,,Q1 2021,2021,TT-L9038,C,2.Moderate,{Not Set},CAR,INT,INT,CAR,Loan Operation,Operation in Disbursing,12/01/2010,Q1
+100,63,TT-L9038,Q2,,,2,,,Q2 2020,2020,TT-L9038,C,2.Moderate,{Not Set},CAR,INT,INT,CAR,Loan Operation,Operation in Disbursing,12/01/2010,Q2
+101,64,TT-L9042,Q1,,,2,,,Q1 2020,2020,TT-L9042,C,1.Low,{Not Set},CAR,IFD,IFD,CAR,Loan Operation,Fully Disbursed,12/03/2014,Q1
+102,64,TT-L9042,Q1,,,2,,,Q1 2021,2021,TT-L9042,C,2.Moderate,{Not Set},CAR,IFD,IFD,CAR,Loan Operation,Fully Disbursed,12/03/2014,Q1
+103,65,TT-L9042,Q4,,1,,,,Q4 2018,2018,TT-L9042,C,1.Low,{Not Set},CAR,IFD,IFD,CAR,Loan Operation,Fully Disbursed,12/03/2014,Q4
+104,65,TT-L9042,Q4,,1,,,,Q4 2019,2019,TT-L9042,C,1.Low,{Not Set},CAR,IFD,IFD,CAR,Loan Operation,Fully Disbursed,12/03/2014,Q4
+105,65,TT-L9042,Q4,,1,,,,Q4 2020,2020,TT-L9042,C,2.Moderate,{Not Set},CAR,IFD,IFD,CAR,Loan Operation,Fully Disbursed,12/03/2014,Q4
+106,66,TT-L9044,Q2,,1,,,,Q2 2020,2020,TT-L9044,C,2.Moderate,{Not Set},CAR,INT,INT,CAR,Loan Operation,Operation in Disbursing,03/12/2015,Q2
+107,67,TT-L9044,Q3,,,2,,,Q3 2020,2020,TT-L9044,C,2.Moderate,{Not Set},CAR,INT,INT,CAR,Loan Operation,Operation in Disbursing,03/12/2015,Q3
+108,68,UR-L9946,Q1,,,,3,,Q1 2020,2020,UR-L9946,A,3.Substantial,Satisfactory,NAC,CSD,CSD,NAC,Loan Operation,Operation in Disbursing,10/31/18,Q1
+109,68,UR-L9946,Q1,,,,3,,Q1 2021,2021,UR-L9946,A,4.High,Partially Satisfactory,NAC,CSD,CSD,NAC,Loan Operation,Operation in Disbursing,10/31/18,Q1
+110,69,UR-L9946,Q2,,,,,4,Q2 2020,2020,UR-L9946,A,3.Substantial,Satisfactory,NAC,CSD,CSD,NAC,Loan Operation,Operation in Disbursing,10/31/18,Q2
+111,70,UR-L9949,Q4,,,2,3,,Q4 2018,2018,UR-L9949,B,2.Moderate,{Not Set},NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,09/16/20,Q4
+112,70,UR-L9949,Q4,,,2,3,,Q4 2019,2019,UR-L9949,C,1.Low,{Not Set},NAC,SCL,INE,NAC,Loan Operation,Operation in Disbursing,09/16/20,Q4
+113,70,UR-L9949,Q4,,,2,3,,Q4 2020,2020,UR-L9949,B,3.Substantial,Partially Satisfactory,NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,09/16/20,Q4
+114,71,US-L9295,Q2,,,,3,,Q2 2020,2020,US-L9295,B,3.Substantial,Partially Satisfactory,NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,09/21/17,Q2
+115,72,US-L9295,Q3,,,,,4,Q3 2020,2020,US-L9295,B,4.High,Partially Unsatisfactory,NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,09/21/17,Q3
+116,73,US-L9300,Q2,,,,3,,Q2 2020,2020,US-L9300,B,4.High,Partially Satisfactory,NAC,CSD,CSD,NAC,Loan Operation,Fully Disbursed,12/14/18,Q2
+117,74,US-L9300,Q3,,,,,4,Q3 2020,2020,US-L9300,B,4.High,Partially Satisfactory,NAC,CSD,CSD,NAC,Loan Operation,Fully Disbursed,12/14/18,Q3
+118,75,US-L9335,Q1,,,,,4,Q1 2020,2020,US-L9335,B,3.Substantial,{Not Set},NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,12/14/18,Q1
+119,75,US-L9335,Q1,,,,,4,Q1 2021,2021,US-L9335,B,4.High,Partially Satisfactory,NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,12/14/18,Q1
+120,76,US-L9335,Q4,,,,3,,Q4 2018,2018,US-L9335,B,2.Moderate,{Not Set},NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,12/14/18,Q4
+121,76,US-L9335,Q4,,,,3,,Q4 2019,2019,US-L9335,B,3.Substantial,{Not Set},NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,12/14/18,Q4
+122,76,US-L9335,Q4,,,,3,,Q4 2020,2020,US-L9335,B,4.High,Partially Satisfactory,NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,12/14/18,Q4
+123,77,US-L9499,Q4,,1,2,,,Q4 2018,2018,US-L9499,B,2.Moderate,{Not Set},NAC,INE,INE,NAC,Loan Operation,Operation in Disbursing,12/16/13,Q4
+124,77,US-L9499,Q4,,1,2,,,Q4 2019,2019,US-L9499,C,1.Low,{Not Set},NAC,IFD,INE,NAC,Loan Operation,Operation in Disbursing,12/16/13,Q4
+125,77,US-L9499,Q4,,1,2,,,Q4 2020,2020,US-L9499,C,1.Low,{Not Set},NAC,IFD,INE,NAC,Loan Operation,Operation in Disbursing,12/16/13,Q4
+126,78,US-L9499B,Q2,,1,,,,,,,,,,,,,,,,,
+127,79,US-L9499B,Q3,,,2,,,,,,,,,,,,,,,,
+128,80,US-L9976,Q2,,,,3,,Q2 2020,2020,US-L9976,B,4.High,Unsatisfactory,NAC,CSD,CSD,NAC,Loan Operation,Operation in Disbursing,05/15/20,Q2
+129,81,US-L9976,Q3,,,,,4,Q3 2020,2020,US-L9976,B,3.Substantial,Partially Unsatisfactory,NAC,CSD,CSD,NAC,Loan Operation,Operation in Disbursing,05/15/20,Q3
+130,82,US-L9997,Q1,,,,,4,Q1 2020,2020,US-L9997,B,4.High,Partially Satisfactory,NAC,CSD,CSD,NAC,Loan Operation,Fully Disbursed,10/13/15,Q1
+131,82,US-L9997,Q1,,,,,4,Q1 2021,2021,US-L9997,B,3.Substantial,Partially Satisfactory,NAC,CSD,CSD,NAC,Loan Operation,Fully Disbursed,10/13/15,Q1
+132,83,US-L9997,Q4,,,,3,,Q4 2018,2018,US-L9997,B,3.Substantial,{Not Set},NAC,CSD,CSD,NAC,Loan Operation,Fully Disbursed,10/13/15,Q4
+133,83,US-L9997,Q4,,,,3,,Q4 2019,2019,US-L9997,B,4.High,Partially Satisfactory,NAC,CSD,CSD,NAC,Loan Operation,Fully Disbursed,10/13/15,Q4
+134,83,US-L9997,Q4,,,,3,,Q4 2020,2020,US-L9997,B,3.Substantial,Partially Satisfactory,NAC,CSD,CSD,NAC,Loan Operation,Fully Disbursed,10/13/15,Q4
